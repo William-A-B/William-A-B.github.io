@@ -45,7 +45,8 @@ h1, h2 {
 }
 
 p {
-	color: #555;
+	color: #AAAAAA;
+	text-shadow: 0 0 2px #AAAAAA;
 }
 
 .projects {
