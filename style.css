@@ -19,6 +19,12 @@ header > h1
 	/*animation: glow 1s ease-in-out infinite alternate;*/
 }
 
+header > p {
+	color: #AAAAAA;
+	text-shadow: 0 0 2px #AAAAAA;
+	
+}
+
 /*
 @keyframes glow {
   from {
@@ -45,8 +51,7 @@ h1, h2 {
 }
 
 p {
-	color: #AAAAAA;
-	text-shadow: 0 0 2px #AAAAAA;
+	color: #555;
 }
 
 .projects {
