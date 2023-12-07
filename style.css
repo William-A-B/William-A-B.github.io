@@ -14,9 +14,23 @@ header {
 
 header > h1
 {
-	color: #fff
+	color: #fff;
+	text-shadow: 0 0 20px #fff;
+	/*animation: glow 1s ease-in-out infinite alternate;*/
 }
 
+/*
+@keyframes glow {
+  from {
+    text-shadow: 0 0 20px #fff;
+	text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff;
+  }
+}
+*/
 section {
 	max-width: 800px;
 	margin: 2em auto;
