@@ -15,7 +15,7 @@ header {
 header > h1
 {
 	color: #16264a;
-	text-shadow: 0 0 20px #16264a;
+	text-shadow: 0 0 25px #16264a;
 	/*animation: glow 1s ease-in-out infinite alternate;*/
 }
 
