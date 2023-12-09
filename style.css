@@ -6,7 +6,7 @@ body {
 }
 
 header {
-	background-color: #00AA00;
+	background-color: #adffad;
 	color: #ffffff;
 	text-align: center;
 	padding: 2em 0;
@@ -14,15 +14,19 @@ header {
 
 header > h1
 {
-	color: #fff;
-	text-shadow: 0 0 20px #fff;
+	color: #000000;
+	text-shadow: 0 0 20px #000000;
 	/*animation: glow 1s ease-in-out infinite alternate;*/
 }
 
 header > p {
-	color: #AAAAAA;
-	text-shadow: 0 0 2px #AAAAAA;
+	color: #3f414f;
+	text-shadow: 0 0 2px #3f414f;
 	
+}
+
+footer > p {
+	color: #3f414f;
 }
 
 /*
@@ -72,6 +76,6 @@ p {
 footer {
 	text-align: center;
 	padding: 2em 0;
-	background-color: #333;
+	background-color: #adffad;
 	color: #fff;
 }
