@@ -14,19 +14,19 @@ header {
 
 header > h1
 {
-	color: #000000;
-	text-shadow: 0 0 20px #000000;
+	color: #16264a;
+	text-shadow: 0 0 20px #16264a;
 	/*animation: glow 1s ease-in-out infinite alternate;*/
 }
 
 header > p {
-	color: #1f2654;
-	text-shadow: 0 0 2px #1f2654;
+	color: #223b73;
+	text-shadow: 0 0 2px #223b73;
 	
 }
 
 footer > p {
-	color: #1f2654;
+	color: #223b73;
 }
 
 /*
@@ -76,6 +76,6 @@ p {
 footer {
 	text-align: center;
 	padding: 2em 0;
-	background-color: #d5fc90;
+	background-color: #bedced;
 	color: #fff;
 }
