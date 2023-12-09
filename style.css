@@ -6,7 +6,7 @@ body {
 }
 
 header {
-	background-color: #adffad;
+	background-color: #d5fc90;
 	color: #ffffff;
 	text-align: center;
 	padding: 2em 0;
@@ -20,13 +20,13 @@ header > h1
 }
 
 header > p {
-	color: #3f414f;
-	text-shadow: 0 0 2px #3f414f;
+	color: #1f2654;
+	text-shadow: 0 0 2px #1f2654;
 	
 }
 
 footer > p {
-	color: #3f414f;
+	color: #1f2654;
 }
 
 /*
@@ -76,6 +76,6 @@ p {
 footer {
 	text-align: center;
 	padding: 2em 0;
-	background-color: #adffad;
+	background-color: #d5fc90;
 	color: #fff;
 }
