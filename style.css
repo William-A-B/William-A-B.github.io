@@ -2,7 +2,8 @@ body {
 	font-family: 'Arial', sans-serif;
 	margin: 0;
 	padding: 0;
-	background-color: #f4f4f4;
+	/* background-color: #f4f4f4; */
+	background-color: #e6eef2;
 }
 
 header {
@@ -21,7 +22,8 @@ header > h1
 
 header > p {
 	color: #223b73;
-	text-shadow: 0 0 2px #223b73;
+	font-weight: bold;
+	/*text-shadow: 0 0 2px #223b73;*/
 	
 }
 
@@ -54,8 +56,33 @@ h1, h2 {
 	color: #333;
 }
 
+h3 {
+	text-align: center;
+}
+
+h6 {
+	color: #568a8c;
+	text-align: center;
+}
+
 p {
 	color: #555;
+}
+
+
+.experiences {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.experience {
+	max-width: 300px;
+	margin: 1em;
+	padding: 1em;
+	background-color: #f9f9f9;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
 }
 
 .projects {
