@@ -2,67 +2,63 @@
 <html lang="en">
 <head>
 	<link rel="stylesheet" href="style.css"/>
-	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="icon" href="assets/img/OscilloscopeMusic.jpg" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"/>
+	<link rel="icon" href="assets/icons/OscilloscopeMusic.jpg" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Diphylleia&display=swap" rel="stylesheet">
     <title>William Betteridge</title>
 </head>
 <body>
+    <nav>
+        <div class="navContent">
+            <div class="logo">
+                <a href="#">William Betteridge</a>
+            </div>
+            <ul class="navLinks">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="experience.html">Experience</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="https://willabphotography.co.uk">Photography</a></li>
+            </ul>
+        </div>
+    </nav>
 
-    <header>
-        <h1>William Betteridge</h1>
-        <p>Electronic Engineer | Photographer</p>
-    </header>
+    <div id="home"></div>
 
-    <section>
+    <div class="aboutSection">
         <h2>About Me</h2>
         <p>
-            Welcome to my website! I am currently studying at the University of York as an electronic engineering student, with a practical ability to explore, understand and develop creative solutions. I also enjoy helping people and solving problems, especially being involved in outdoor activities as well as volunteering in a wide range of areas.
+            Welcome to my website! I am currently studying at the University of York as an electronic engineering student, with a practical ability to explore, understand and develop creative solutions. I also enjoy helping people and solving problems, especially being involved in outdoor activities as well as volunteering in a wide range of areas.  
         </p>
-    </section>
-	
-	<section>
-        <h2>Experiences and Volunteering</h2>
-        <div class="experiences">
-            <div class="experience">
-                <h3>Photography</h3>
-				<h6>Jan 2019 - Present</h6>
-                <p>I am an amateur photographer, mainly interested in Landscape and Wildlife photography, and have been running a small business for the past couple of years. Primarily located in the Wirral, but also photographing The Lake District and Yorkshire, where I am at Uni.</p>
+    </div>
 
-				<p>The last three years I have produced and sold a Landscape Calendar of the Wirral. Along with this I also have my Lake District postcards up for sale in shops in local villages</p>
+    <div class="socialsSection">
+        <div class="socialsIcons">
+            <a href="https://www.linkedin.com/in/william-betteridge/" target="_blank">
+                <img class="svgWhite" src="./assets/icons/linkedin.svg" alt="LinkedIn">
+            </a>
+            <a href="./assets/files/William_Betteridge_CV.pdf" target="_blank">
+                <img class="svgWhite" src="./assets/icons/file-cv.svg" alt="CV">
+            </a>
+            <a href="https://github.com/William-A-B" target="_blank">
+                <img class="svgWhite" src="./assets/icons/github.svg" alt="GitHub">
+            </a>
+            <!--
+                If you want to add in more socials, you can grab an svg icon
+                from https://fontawesome.com/search?o=r&f=brands and then place the downloaded
+                file into assets -> icons folder.
 
-				<p>Recently I have got involved with more portrait and candid photography, taking photos for friends and family, as well as at York Engineering Society events, with me being the Secretary.</p>
-            </div>
-            <div class="experience">
-                <h3>Young Leading for Cubs</h3>
-				<h6>Apr 2017 -  Dec 2020</h6>
-                <p>Young Leading with Cubs, helping to organize as well as run my own activities for the cubs.</p>
-            </div>
-            <!-- Add more projects as needed -->
+                Then you can copy one of the code snippets above and place it
+                under this line -->
         </div>
-    </section>
+    </div>
 
-    <section>
-        <h2>Projects</h2>
-        <div class="projects">
-            <div class="project">
-                <h3>DocDuck - SwEng</h3>
-				<h5>3rd Year Software Engineering Group Project</h5>
-                <p>A software application in Java</p>
-            </div>
-            <div class="project">
-                <h3>Design, Construction & Test</h3>
-				<h5>2nd Year Component Tester Group Project</h5>
-                <p>A component tester...</p>
-            </div>
-            <!-- Add more projects as needed -->
-        </div>
-    </section>
 
-    <footer>
-        <p>&copy; 2023 William Betteridge. All rights reserved.</p>
-    </footer>
 
+    <div class="socialLinks">
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
