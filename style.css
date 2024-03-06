@@ -3,10 +3,18 @@
     --header-bg-col-transparent: #133337aa;
     --nav-hov-col: #3a5f63;
     --bg-col: #fff;
+
+    --text: #080809;
+    --background: #f7f8fa;
+    --primary: #748296;
+    --secondary: #94b5e5;
+    --accent: #4a8ce9;
+
 }
 
 * {
     margin: 0;
+    /* background-color: var(--background); */
 }
 
 header {
@@ -62,21 +70,26 @@ nav > * > * {
 }
 
 nav > *:hover {
-    background-color: var(--nav-hov-col);
+    background-color: var(--secondary);
 }
 
-#home{
+body {
+    min-height: 100vh;
+}
+
+#home {
 	/* height: 72vh; */
-    height: 40vh;
+    height: 33vh;
 	max-width: 100%;
 	background: url("./assets/img/Suilven-banner-small.png");
 	background-size: cover;
 	background-position: top;
 }
 
-#home .no-image {
-    background: none !important;
+#home.no-image {
+    background: none;
     height: 7vh;
+    background-color: var(--primary);
 }
 
 .socialsSection {
@@ -84,7 +97,6 @@ nav > *:hover {
     align-items: center;
     justify-content: center;
     padding: 2em 8em 2em 8em;
-    background: #ffffff;
 }
 
 .svgWhite {
@@ -101,7 +113,10 @@ nav > *:hover {
 footer {
     text-align: center;
     padding: 0em 0;
-    color: #fff;
+    width: 100vw;
+    background-color: var(--primary);
+    bottom: 0;
+    position: absolute;
 }
 
 /* for mobile devices, move flex to be column and have
@@ -110,7 +125,8 @@ footer {
     header {
         flex-direction: column;
         height: initial;
-        background-color: var(--header-bg-col);
+        /* background-color: var(--header-bg-col); */
+        background-color: var(--primary);
     }
 
     nav {
@@ -126,7 +142,7 @@ footer {
 
 a {
     text-decoration: none;
-    color: black;
+    color: var(--text);
 
 }
 
