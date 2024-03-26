@@ -6,9 +6,26 @@
 
     --text: #080809;
     --background: #f7f8fa;
-    --primary: #748296;
+    --primary: #7c98b3ff;
+    --secondary: #637081ff;
+    --accent: #536b78ff;
+
+    /* New Colour Trio */
+    /* --celadon: #bbdb9bff;
+    --celadon-2: #abc4a1ff;
+    --ash-gray: #9db4abff;
+    --cambridge-blue: #8d9d90ff;
+    --reseda-green: #878e76ff; */
+
+    /* Original Colour Trio */
+    /* --primary: #748296;
     --secondary: #94b5e5;
-    --accent: #4a8ce9;
+    --accent: #4a8ce9; */
+
+    /* Lighter Blues */
+    /* --primary: #9db4c0ff;
+    --secondary: #5c6b73ff;
+    --accent: #253237ff; */
 
 }
 
@@ -29,6 +46,7 @@ header {
     justify-content: space-around;
     align-items: stretch;
     /* background: linear-gradient(180deg, rgba(19,51,55,1) 46%, rgba(0,212,255,0.014443277310924318) 100%); */
+    background: var(--primary);
 }
 
 header > .header-title {
@@ -94,6 +112,15 @@ body {
     background-color: var(--primary);
 }
 
+.m_aboutSection {
+    max-width: 1440px;
+	margin: auto;
+	text-align: justify;
+	padding: 1.5rem 1.5rem 0rem 1.5rem;
+	line-height: 1.5rem;
+}
+
+
 .experience-container {
 	display: flex;
 	flex-wrap: wrap;
@@ -101,7 +128,7 @@ body {
 }
 
 .experience {
-	max-width: 450px;
+	max-width: 700px;
 	margin: 1em;
 	padding: 1em;
 	background-color: #f9f9f9;
@@ -139,6 +166,11 @@ section h6 {
     gap: 32px;
 }
 
+/* Add this style for the footer to initially be hidden */
+/* footer {
+    display: none;
+} */
+
 footer {
     text-align: center;
     padding: 0em 0;
@@ -146,12 +178,13 @@ footer {
     background-color: var(--primary);
     bottom: 0px;
     position: fixed;
-    /* position: fixed; */
-    /* text-align: center;
-	padding: 0em 0;
-	color: #fff;
-    position: fixed;
-    bottom: 0; */
+    display: block;
+}
+
+/* Add a class to make the footer visible */
+.footer-visible {
+    display: block;
+    transform: translateY(0); /* Move footer back to its original position */
 }
 
 /* for mobile devices, move flex to be column and have
@@ -204,7 +237,10 @@ h1 {font-size: 5.652rem; /* 90.4px */}
 
 h2 {font-size: 3.997rem; /* 64px */}
 
-h3 {font-size: 2.827rem; /* 45.28px */}
+h3 {
+    font-size: 2.827rem; /* 45.28px */
+    margin-bottom: 2rem;
+}
 
 h4 {font-size: 1.999rem; /* 32px */}
 
