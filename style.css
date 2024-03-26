@@ -1,135 +1,134 @@
-*{
-	padding: 0;
-	margin: 0;
-	box-sizing: border-box;
-	font-family: 'Arial', sans-serif;
-	/* font-family: 'Diphylleia', sans-serif; */
+:root {
+    --header-bg-col: #133337;
+    --header-bg-col-transparent: #133337aa;
+    --nav-hov-col: #3a5f63;
+    --bg-col: #fff;
+
+    --text: #080809;
+    --background: #f7f8fa;
+    --primary: #7c98b3ff;
+    --secondary: #637081ff;
+    --accent: #536b78ff;
+
+    /* New Colour Trio */
+    /* --celadon: #bbdb9bff;
+    --celadon-2: #abc4a1ff;
+    --ash-gray: #9db4abff;
+    --cambridge-blue: #8d9d90ff;
+    --reseda-green: #878e76ff; */
+
+    /* Original Colour Trio */
+    /* --primary: #748296;
+    --secondary: #94b5e5;
+    --accent: #4a8ce9; */
+
+    /* Lighter Blues */
+    /* --primary: #9db4c0ff;
+    --secondary: #5c6b73ff;
+    --accent: #253237ff; */
+
 }
 
-a{
-	text-decoration: none;
+* {
+    margin: 0;
+    /* background-color: var(--background); */
 }
 
-nav{
-	position: fixed;
-	left: 0;
-	top: 0;
-	width: 100%;
-	padding: 20px;
+header {
+    width: 100vw;
+    height: 7vh;
+    position: fixed;
+    /* background-color: var(--header-bg-col); */
+
+    /* align items in header to be vertically 
+		 * centered */
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    /* background: linear-gradient(180deg, rgba(19,51,55,1) 46%, rgba(0,212,255,0.014443277310924318) 100%); */
+    background: var(--primary);
 }
 
-nav.sticky{
-	background: #133337aa;
+header > .header-title {
+    align-self: center;
+    text-align: center;
+    font-size: 1.66rem;
+    font-family: "Cinzel Decorative", sans-serif;
+    color: #f0ffff;
 }
 
-nav .navContent{
-	height: 100%;
-	max-width: 1440px;
-	margin: auto;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
+nav {
+    flex-grow: 0.2;
+    /* take up extra space */
+
+    /* nav contents are centered vertically and
+		 * spread out across the header bar */
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
 }
 
-nav .navContent .logo a{
-	font-family: 'Cinzel Decorative', sans-serif;
-	font-size: 26px;
-	font-weight: 500;
-	color: #fff;
+nav > * {
+    transition-duration: 0.5s;
+
+    /* hack to make clickable area bigger and put
+		 * text in center */
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Diphylleia', sans-serif;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
 }
 
-nav .navContent .navLinks{
-	display: flex;
-	align-items: center;
+/* witchcraft!!! */
+nav > * > * {
+    align-self: center;
 }
 
-nav .navLinks li{
-	list-style: none;
-	margin: 0 8px;
+nav > *:hover {
+    background-color: var(--secondary);
 }
 
-nav .navLinks a{
-	font-family: 'Diphylleia', sans-serif;
-	font-size: 18px;
-	font-weight: 500;
-	color: #fff;
-	/* background: greenyellow; */
-	padding: 10px, 15px;
-	transition: all 0.3s ease;
+body {
+    min-height: 100vh;
+    /* padding-bottom: 100px; */
+
 }
 
-nav .navLinks a:hover{
-	color: #979fa0;
-}
-
-#home{
-	height: 72vh;
-	width: 100%;
-	/* background: url("./assets/img/Suilven-Readability-max.png"); */
-	background: url("./assets/img/Suilven-Readability-min.jpg");
+#home {
+	/* height: 72vh; */
+    height: 33vh;
+	max-width: 100%;
+	background: url("./assets/img/Suilven-banner-small.png");
 	background-size: cover;
-	background-position: center;
+	background-position: top;
 }
 
-#experienceHome {
-	height: 9vh;
-	width: 100%;
-	background: url("./assets/img/Suilven-Readability-min-banner.jpg");
-	background-size: cover;
-	background-position: center;
+#home.no-image {
+    background: none;
+    height: 7vh;
+    background-color: var(--primary);
 }
 
-#projectsHome {
-	height: 9vh;
-	width: 100%;
-	background: url("./assets/img/Suilven-Readability-min-banner.jpg");
-	background-size: cover;
-	background-position: center;
-}
-
-.aboutSection{
-	max-width: 1440px;
+.m_aboutSection {
+    max-width: 1440px;
 	margin: auto;
 	text-align: justify;
 	padding: 1.5rem 1.5rem 0rem 1.5rem;
 	line-height: 1.5rem;
-	/* display: flex;
-	align-items: center;
-	justify-content: space-between;
-	padding: 2em 8em 2em 8em;
-	background: #cecece; */
-	/* background: #333;
-	color: #fff; */
 }
 
-.aboutSection h2{
-	font-size: 2rem;
-	color: #133337;
-	margin-bottom: 30px;
-}
 
-.aboutSection p{
-	max-width: 1000px;
-	text-align: left;
-}
-
-section {
-	max-width: 1100px;
-	margin: 2em auto;
-	padding: 1em;
-	background-color: #fff;
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-	border-radius: 5px;
-}
-
-.experiences {
+.experience-container {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
 }
 
 .experience {
-	max-width: 450px;
+	max-width: 700px;
 	margin: 1em;
 	padding: 1em;
 	background-color: #f9f9f9;
@@ -138,11 +137,11 @@ section {
 	line-height: 1.5rem;
 }
 
-.experience h3 {
-	text-align: center;
+section h4 {
+    line-height: 1;
 }
 
-.experience h6 {
+section h6 {
 	font-size: 0.9rem;
 	color: #568a8c;
 	text-align: center;
@@ -150,26 +149,101 @@ section {
 }
 
 .socialsSection {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	padding: 2em 8em 2em 8em;
-	background: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2em 8em 2em 8em;
 }
 
 .svgWhite {
-	height: 32px;
-	width: 32px;
-	filter: brightness(0) invert(0);
+    height: 32px;
+    width: 32px;
+    filter: brightness(0) invert(0);
 }
 
 .socialsIcons {
-	display: flex;
-	gap: 32px;
+    display: flex;
+    gap: 32px;
 }
 
+/* Add this style for the footer to initially be hidden */
+/* footer {
+    display: none;
+} */
+
 footer {
-	text-align: center;
-	padding: 0em 0;
-	color: #fff;
+    text-align: center;
+    padding: 0em 0;
+    width: 100vw;
+    background-color: var(--primary);
+    bottom: 0px;
+    position: fixed;
+    display: block;
 }
+
+/* Add a class to make the footer visible */
+.footer-visible {
+    display: block;
+    transform: translateY(0); /* Move footer back to its original position */
+}
+
+/* for mobile devices, move flex to be column and have
+ * no limit on height */
+@media only screen and (max-width: 768px) {
+    header {
+        flex-direction: column;
+        height: initial;
+        /* background-color: var(--header-bg-col); */
+        background-color: var(--primary);
+        position: relative;
+    }
+
+    #home {
+        background: none;
+        height: 0.2vh;
+    }
+
+    nav {
+        flex-direction: column;
+    }
+}
+
+/* styling text */
+
+.header-title a {
+    color:#f0ffff
+}
+
+a {
+    text-decoration: none;
+    color: var(--text);
+
+}
+
+p, a {
+    font-size: 1.33rem;
+    font-family: 'Dosis';
+    font-weight: 400;
+}
+  
+h1, h2, h3, h4, h5, .header-title {
+    font-weight: 400;
+    font-family: 'Cinzel Decorative';
+}
+
+html {font-size: 100%;} /* 16px */
+
+h1 {font-size: 5.652rem; /* 90.4px */}
+
+h2 {font-size: 3.997rem; /* 64px */}
+
+h3 {
+    font-size: 2.827rem; /* 45.28px */
+    margin-bottom: 2rem;
+}
+
+h4 {font-size: 1.999rem; /* 32px */}
+
+h5 {font-size: 1.414rem; /* 22.56px */}
+
+small {font-size: 0.707rem; /* 11.36px */}
