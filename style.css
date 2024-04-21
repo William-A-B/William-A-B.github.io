@@ -8,7 +8,7 @@
     --background: #f7f8fa;
     --primary: #7c98b3ff;
     --secondary: #637081ff;
-    --accent: #536b78ff;
+    --accent: #536b78;
 
     /* New Colour Trio */
     /* --celadon: #bbdb9bff;
@@ -47,6 +47,7 @@ header {
     align-items: stretch;
     /* background: linear-gradient(180deg, rgba(19,51,55,1) 46%, rgba(0,212,255,0.014443277310924318) 100%); */
     background: var(--primary);
+    z-index: 100;
 }
 
 header > .header-title {
@@ -135,6 +136,54 @@ body {
 	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 	border-radius: 5px;
 	line-height: 1.5rem;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+    grid-gap: 1.5em;
+    padding: 1em;
+}
+
+.grid-item {
+    position: relative; /* Needed for absolute positioning of overlay */
+}
+  
+.image-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Adjust opacity as needed */
+}
+
+.grid-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    z-index: 2; /* Ensure text is above the overlay */
+}
+
+.project {
+    padding: 1em;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(83, 107, 120, 0.2);
+    border-radius: 5px;
+    line-height: 1.5rem;
+    text-align: center;
+    color: white;
+    background: url("./assets/img/Suilven-banner-small.png");
+    background-size: cover;
 }
 
 section h4 {
@@ -247,3 +296,9 @@ h4 {font-size: 1.999rem; /* 32px */}
 h5 {font-size: 1.414rem; /* 22.56px */}
 
 small {font-size: 0.707rem; /* 11.36px */}
+
+ul {
+    font-size: 1.33rem;
+    font-family: 'Dosis';
+    font-weight: 400;
+}
