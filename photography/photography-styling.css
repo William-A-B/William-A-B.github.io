@@ -1,0 +1,33 @@
+:root {
+    --header-bg-col: #133337;
+    --header-bg-col-transparent: #133337aa;
+    --nav-hov-col: #3a5f63;
+    --bg-col: #fff;
+
+    --text: #080809;
+    --background: #f7f8fa;
+    --primary: #7c98b3ff;
+    --secondary: #637081ff;
+    --accent: #536b78;
+}
+
+.table-container {
+    position: absolute; /* Change to fixed if you want it to stay in place while scrolling */
+    width: 30%;
+    left: 35%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #000;
+    text-align: center;
+    padding: 10px;
+}
+
+tr {
+    background-color: var(--primary);
+}
