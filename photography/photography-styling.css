@@ -31,3 +31,11 @@ td {
 tr {
     background-color: var(--primary);
 }
+
+figcaption {
+    background-color: white;
+    color: black;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+  }
