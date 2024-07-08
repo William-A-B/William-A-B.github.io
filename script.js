@@ -19,7 +19,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-
 // document.addEventListener("DOMContentLoaded", function() {
 //     var footer = document.querySelector("footer");
 //     var lastScrollTop = 0;
