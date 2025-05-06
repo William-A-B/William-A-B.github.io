@@ -168,14 +168,6 @@ body {
     height: auto;
 }
 
-.grid-item:hover .image-overlay {
-    background-color: rgba(0, 0, 0, 0.3);
-}
-
-.grid-item:hover .text-overlay {
-    transform: translate(-50%, -50%) scale(1.05);
-}
-
 .text-overlay {
     position: absolute;
     top: 50%;
