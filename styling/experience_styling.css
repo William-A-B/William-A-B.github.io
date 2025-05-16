@@ -1,0 +1,93 @@
+.timeline {
+  position: relative;
+  margin: 4em auto;
+  padding: 2em 1em;
+  max-width: 900px;
+}
+
+/* Draw the line starting below the title */
+.timeline::before {
+  content: '';
+  position: absolute;
+  top: 10em; /* starts below the title */
+  bottom: 0;
+  left: 40px;
+  width: 3px;
+  background: var(--secondary);
+  z-index: 1;
+}
+
+.timeline-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: var(--text);
+  margin-bottom: 2.5em;
+}
+
+.timeline-section-header {
+  font-size: 2.2rem;
+  font-weight: bold;
+  margin: 3em 0 1em 80px;
+  color: var(--primary);
+  border-left: 4px solid var(--accent);
+  padding-left: 0.5em;
+}
+
+/* Each event */
+.timeline-item {
+  position: relative;
+  padding-left: 80px;
+  margin-bottom: 3em;
+}
+
+/* Dot perfectly centered on card */
+.timeline-dot {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 31px;
+  width: 18px;
+  height: 18px;
+  background: var(--accent);
+  border: 3px solid var(--background);
+  border-radius: 50%;
+  z-index: 2;
+}
+
+/* Card styling */
+.timeline-content {
+  background: #f9f9f9;
+  padding: 1.5em;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.timeline-content h4 {
+  font-size: 1.5rem;
+  margin-top: 0;
+  color: var(--primary);
+}
+
+.timeline-content h6 {
+  font-size: 1rem;
+  color: var(--secondary);
+  margin: 0.5em 0 1em;
+}
+
+.timeline-content p {
+  margin-bottom: 0;
+  line-height: 1.6;
+}
+
+/* Date Label Divider */
+.timeline-date-divider {
+  position: relative;
+  margin: 3em 0 1em 80px;
+  font-size: 1.1rem;
+  color: var(--primary);
+  font-weight: bold;
+  border-bottom: 1px solid var(--secondary);
+  display: inline-block;
+  padding-bottom: 0.25em;
+}
+
