@@ -3,7 +3,6 @@
 
 <head>
     <link rel="stylesheet" href="/style.css" />
-    <link rel="stylesheet" href="/styling/project_styling.css" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
     <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon"/>
@@ -24,89 +23,103 @@
         </nav>
     </header>
     <div class="no-image" id="home"></div>
-
+    
     <main>
-        <section class="projects-section">
-            <h2>My Projects</h2>
-            <p style="margin: 30px;">For more info on my current and past projects whilst this page is being updated, please
+        <h3 style="margin: 30px;">Projects</h3>
+        <p style="margin: 30px;">For more info on my current and past projects whilst this page is being updated, please
             see my <u><a href="https://github.com/William-A-B" target="_blank">GitHub</a></u></p>
-            <div class="projects-grid">
-            <article class="project-card">
-                <img src="/assets/img/OscilloscopeMusic-small.jpg" alt="Oscilloscope Music Image" />
-                <h3>Personal Website</h3>
-                <p><!-- Add a brief description here --></p>
-                <!-- Optional: add tech stack -->
-                <!-- <ul class="tech-stack"><li>HTML</li><li>CSS</li></ul> -->
-                <div class="project-links">
-                    <a href="/projects/personalwebsite/" target="_blank">View Project</a>
-                </div>
-            </article>
 
-            <article class="project-card">
-                <img src="/assets/img/Nervous_Systems_Logo.png" alt="Nervous Systems Logo Image" />
-                <h3>Nervous Systems Internship</h3>
-                <p><!-- Add a brief description here --></p>
-                <div class="project-links">
-                    <a href="/projects/nervous-systems-internship/" target="_blank">View Project</a>
+        <div class="grid-container">
+            <a href="/projects/personalwebsite/">
+                <div class="grid-item">
+                    <div class="image-overlay"></div>
+                    <img src="/assets/img/OscilloscopeMusic-small.jpg" alt="Oscilloscope Music Image">
+                    <div class="text-overlay">
+                        <h4>Personal Website</h4>
+                    </div>
                 </div>
-            </article>
+            </a>
+            <a href="/projects/nervous-systems-internship/">
+                <div class="grid-item">
+                    <div class="image-overlay"></div>
+                    <img src="/assets/img/Nervous_Systems_Logo.png" alt="Nervous Systems Logo Image">
+                    <div class="text-overlay">
+                        <h4>Nervous Systems Internship</h4>
+                    </div>
+                </div>
+            </a>
+            <a href="/projects/sweng/">
+                <div class="grid-item">
+                    <div class="image-overlay"></div>
+                    <img src="/assets/img/DocDuck-Logo.png" alt="DocDuck Logo Image">
+                    <div class="text-overlay">
+                        <h4>Software Engineering Group Project</h4>
+                    </div>
+                </div>
+            </a>
+            <a href="/projects/rdac-maze-solving-robot/">
+                <div class="grid-item">
+                    <div class="image-overlay"></div>
+                    <img src="/assets/img/Robot-Small.png" alt="Robot Image" width="100%" height="100%">
+                    <div class="text-overlay">
+                        <h4>RDaC Autonomous Maze Solving Robot</h4>
+                    </div>
+                </div>
+            </a>
+            <a href="/projects/shortest-path-maze-solver/">
+                <div class="grid-item">
+                    <div class="image-overlay"></div>
+                    <img src="/assets/img/flower.jpg" alt="Flower Image">
+                    <div class="text-overlay">
+                        <h4>Shortest Path Maze Solver</h4>
+                    </div>
+                </div>
+            </a>
+            <a href="/projects/silver-age-minecraft/">
+                <div class="grid-item">
+                    <div class="image-overlay"></div>
+                    <img src="/assets/img/SAM_Logo.png" alt="Flower Image">
+                    <div class="text-overlay">
+                        <h4>Silver Age Minecraft</h4>
+                    </div>
+                </div>
+            </a>
+            <a href="/projects/q-factor/">
+                <div class="grid-item">
+                    <div class="image-overlay"></div>
+                    <img src="/assets/img/Q-Factor.png" alt="Flower Image">
+                    <div class="text-overlay">
+                        <h4>Q Factor</h4>
+                    </div>
+                </div>
+            </a>
+            <a href="/projects/mc-discord-bridge/">
+                <div class="grid-item">
+                    <div class="image-overlay"></div>
+                    <img src="/assets/img/flower.jpg" alt="Flower Image">
+                    <div class="text-overlay">
+                        <h4>Minecraft-Discord Bridge</h4>
+                    </div>
+                </div>
+            </a>
 
-            <article class="project-card">
-                <img src="/assets/img/DocDuck-Logo.png" alt="DocDuck Logo Image" />
-                <h3>Software Engineering Group Project</h3>
-                <p><!-- Add a brief description here --></p>
-                <div class="project-links">
-                    <a href="/projects/sweng/" target="_blank">View Project</a>
-                </div>
-            </article>
-
-            <article class="project-card">
-                <img src="/assets/img/Robot-Small.png" alt="Robot Image" />
-                <h3>RDaC Autonomous Maze Solving Robot</h3>
-                <p><!-- Add a brief description here --></p>
-                <div class="project-links">
-                    <a href="/projects/rdac-maze-solving-robot/" target="_blank">View Project</a>
-                </div>
-            </article>
-
-            <article class="project-card">
-                <img src="/assets/img/flower.jpg" alt="Flower Image" />
-                <h3>Shortest Path Maze Solver</h3>
-                <p><!-- Add a brief description here --></p>
-                <div class="project-links">
-                    <a href="/projects/shortest-path-maze-solver/" target="_blank">View Project</a>
-                </div>
-            </article>
-
-            <article class="project-card">
-                <img src="/assets/img/SAM_Logo.png" alt="Silver Age Minecraft Logo" />
-                <h3>Silver Age Minecraft</h3>
-                <p><!-- Add a brief description here --></p>
-                <div class="project-links">
-                    <a href="/projects/silver-age-minecraft/" target="_blank">View Project</a>
-                </div>
-            </article>
-
-            <article class="project-card">
-                <img src="/assets/img/Q-Factor.png" alt="Q Factor Image" />
-                <h3>Q Factor</h3>
-                <p><!-- Add a brief description here --></p>
-                <div class="project-links">
-                    <a href="/projects/q-factor/" target="_blank">View Project</a>
-                </div>
-            </article>
-
-            <article class="project-card">
-                <img src="/assets/img/flower.jpg" alt="Flower Image" />
-                <h3>Minecraft-Discord Bridge</h3>
-                <p><!-- Add a brief description here --></p>
-                <div class="project-links">
-                    <a href="/projects/mc-discord-bridge/" target="_blank">View Project</a>
-                </div>
-            </article>
-                <!-- Repeat project-card for other projects -->
-            </div>
-        </section>
+            <!-- <section class="project">
+                <h4>Project 1</h4>
+                <p>Project 1 Descriptionhjklhjklhjklhjklhjklhjklhjkhjklhjklhjlk</p>
+            </section>
+            <section class="project">
+                <h4>Project 2</h4>
+                <p>Project 2 Description</p>
+            </section>
+            <section class="project">
+                <h4>Project 3</h4>
+                <p>Project 3 Description</p>
+            </section>
+            <section class="project">
+                <h4>Project 4</h4>
+                <p>Project 4 Description</p>
+            </section> -->
+        </div>
     </main>
 
     <script src="/script.js"></script>
