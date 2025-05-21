@@ -36,6 +36,7 @@ td a {
   text-decoration: none; /* Optional: remove underline */
   padding: 10px 0;      /* Match the td padding for vertical click area */
   box-sizing: border-box; /* Ensure padding doesn’t break sizing */
+  font-size: 1.6em;
 }
 
 td a:hover {
