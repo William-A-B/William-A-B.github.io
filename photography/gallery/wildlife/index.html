@@ -1,49 +1,116 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <link rel="stylesheet" href="/style.css" />
+        <link rel="stylesheet" href="/photography/photography-styling.css" />
+        <link rel="stylesheet" href="/photography/gallery/gallery-styling.css" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+        <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon" />
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap" rel="stylesheet" />
+        <title>William Betteridge</title>
+    </head>
 
-<head>
-    <link rel="stylesheet" href="/style.css" />
-    <link rel="stylesheet" href="/photography/photography-styling.css" />
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
-    <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon"/>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap"
-        rel="stylesheet">
-    <title>William Betteridge</title>
-</head>
+    <body>
+        <header>
+            <a class="header-title" href="#">William Betteridge</a>
+            <nav class="header-title">
+                <a href="/"><li>Home</li></a>
+                <a href="/experience"><li>Experience</li></a>
+                <a href="/projects"><li>Projects</li></a>
+                <a href="/photography"><li>Photography</li></a>
+            </nav>
+        </header>
+        <div class="no-image" id="home"></div>
 
-<body>
-    <header>
-        <a class="header-title" href="#">William Betteridge</a>
-        <nav class="header-title">
-            <a href="/"><li>Home</li></a>
-            <a href="/experience"><li>Experience</li></a>
-            <a href="/projects"><li>Projects</li></a>
-            <a href="/photography"><li>Photography</li></a>
-        </nav>
-    </header>
-    <div class="no-image" id="home"></div>
-
-    <main>
-        <br>
-        <h3 style="margin: 30px;">Wildlife</h3>
-        <br>
-        <br>
-        <div class="photo-row">
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53843784946_c3c2c5f3ec_o.jpg"/>
+        <main>
+            <h3 style="margin: 30px">Wildlife</h3>
+            <div class="gallery" id="gallery">
+                <div class="photo" onclick="openModal(0)">
+                    <img src="https://live.staticflickr.com/65535/53843784946_c3c2c5f3ec_b.jpg" alt="Puffin" />
+                    <div class="caption">Puffin</div>
+                </div>
+                <div class="photo" onclick="openModal(1)">
+                    <img src="https://live.staticflickr.com/65535/53844135864_2fb41dc944_b.jpg" alt="Gannet" />
+                    <div class="caption">Gannet</div>
+                </div>
+                <div class="photo" onclick="openModal(2)">
+                    <img src="https://live.staticflickr.com/65535/53844048218_edc767ca63_b.jpg" alt="Gannet" />
+                    <div class="caption">Gannet</div>
+                </div>
+                <div class="photo" onclick="openModal(3)">
+                    <img src="https://live.staticflickr.com/65535/54544057832_12ce1f2abf_b.jpg" alt="Little Egret" />
+                    <div class="caption">Little Egret</div>
+                </div>
+                <div class="photo" onclick="openModal(4)">
+                    <img src="https://live.staticflickr.com/65535/54544046107_cf07d45810_b.jpg" alt="Kingfisher" />
+                    <div class="caption">Kingfisher</div>
+                </div>
+                <div class="photo" onclick="openModal(5)">
+                    <img src="https://live.staticflickr.com/65535/54544940986_33bf49d8c5_b.jpg" alt="Heron" />
+                    <div class="caption">Heron</div>
+                </div>
+                <div class="photo" onclick="openModal(6)">
+                    <img src="https://live.staticflickr.com/65535/54545272700_9ca6492c94_b.jpg" alt="Bumble Bee" />
+                    <div class="caption">Bumble Bee</div>
+                </div>
+                <div class="photo" onclick="openModal(7)">
+                    <img src="https://live.staticflickr.com/65535/54545274695_d3653c16f2_b.jpg" alt="Grey Squirrel " />
+                    <div class="caption">Grey Squirrel</div>
+                </div>
+                <div class="photo" onclick="openModal(8)">
+                    <img src="https://live.staticflickr.com/65535/54545123634_e104b190e9_b.jpg" alt="Chaffinch" />
+                    <div class="caption">Chaffinch</div>
+                </div>
+                <div class="photo" onclick="openModal(9)">
+                    <img src="https://live.staticflickr.com/65535/54545173613_7d5ab63eb8_b.jpg" alt="Blue Tit" />
+                    <div class="caption">Blue Tit</div>
+                </div>
+                <div class="photo" onclick="openModal(10)">
+                    <img src="https://live.staticflickr.com/65535/54544941756_23662f11ac_b.jpg" alt="Robin" />
+                    <div class="caption">Robin</div>
+                </div>
+                <div class="photo" onclick="openModal(11)">
+                    <img src="https://live.staticflickr.com/65535/54544941521_bb5226ebfb_b.jpg" alt="Hare" />
+                    <div class="caption">Hare</div>
+                </div>
+                <div class="photo" onclick="openModal(12)">
+                    <img src="https://live.staticflickr.com/65535/54544937341_25cd0009c3_b.jpg" alt="Rabbit" />
+                    <div class="caption">Rabbit</div>
+                </div>
+                <div class="photo" onclick="openModal(13)">
+                    <img src="https://live.staticflickr.com/65535/54545271905_e60fb08700_b.jpg" alt="Great Spotted Woodpecker" />
+                    <div class="caption">Great Spotted Woodpecker</div>
+                </div>
+                <div class="photo" onclick="openModal(14)">
+                    <img src="https://live.staticflickr.com/65535/54545126964_9fcdf072bf_b.jpg" alt="Heron" />
+                    <div class="caption">Heron</div>
+                </div>
+                <div class="photo" onclick="openModal(15)">
+                    <img src="https://live.staticflickr.com/65535/54544046902_f23d9554f4_b.jpg" alt="Highland Cow" />
+                    <div class="caption">Heron</div>
+                </div>
+                <div class="photo" onclick="openModal(16)">
+                    <img src="https://live.staticflickr.com/65535/54544047047_e8294e373d_b.jpg" alt="Highland Cow" />
+                    <div class="caption">Highland Cow</div>
+                </div>
+                <div class="photo" onclick="openModal(17)">
+                    <img src="https://live.staticflickr.com/65535/54545259955_e5efea0616_b.jpg" alt="Green Woodpecker" />
+                    <div class="caption">Green Woodpecker</div>
+                </div>
             </div>
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53844135864_2fb41dc944_o.jpg"/>
-            </div>
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53844048218_edc767ca63_o.jpg"/>
-            </div>
-        </div>
-    </main>
 
-    <script src="/script.js"></script>
-</body>
+            <div class="modal" id="modal">
+                <span class="close" onclick="closeModal()">&times;</span>
+                <span class="prev" onclick="changePhoto(-1)">&#10094;</span>
+                <span class="next" onclick="changePhoto(1)">&#10095;</span>
+                <div class="modal-content">
+                    <img id="modal-img" src="" alt="" />
+                </div>
+            </div>
+        </main>
 
+        <script src="/script.js"></script>
+        <script src="/photography/gallery/gallery-script.js"></script>
+    </body>
 </html>

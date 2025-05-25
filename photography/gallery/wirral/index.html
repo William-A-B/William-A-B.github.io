@@ -1,65 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <link rel="stylesheet" href="/style.css" />
+        <link rel="stylesheet" href="/photography/photography-styling.css" />
+        <link rel="stylesheet" href="/photography/gallery/gallery-styling.css" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+        <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon" />
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap" rel="stylesheet" />
+        <title>William Betteridge</title>
+    </head>
 
-<head>
-    <link rel="stylesheet" href="/style.css" />
-    <link rel="stylesheet" href="/photography/photography-styling.css" />
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
-    <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon"/>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap"
-        rel="stylesheet">
-    <title>William Betteridge</title>
-</head>
-
-<body>
-    <header>
-        <a class="header-title" href="#">William Betteridge</a>
-        <nav class="header-title">
-            <a href="/"><li>Home</li></a>
-            <a href="/experience"><li>Experience</li></a>
-            <a href="/projects"><li>Projects</li></a>
-            <a href="/photography"><li>Photography</li></a>
-        </nav>
-    </header>
-    <div class="no-image" id="home"></div>
-
-    <main>
-        <br>
-        <h3 style="margin: 30px;">The Wirral</h3>
-        <br>
-        <br>
-        <div class="photo-row">
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53777824436_83a4433432_o.jpg" alt="LeasoweToLiverpool"/>
-                <p class="photo-title">Liverpool Cranes from Leasowe Lighthouse</p>
-                <img src="https://live.staticflickr.com/65535/53778147694_50dba5a8a6_o.jpg"/>
-                <p class="photo-title">Moel Famau at Winter Sunset</p>
-                <img src="https://live.staticflickr.com/65535/53776902957_948010ec39_o.jpg"/>
-                <p class="photo-title">Heswall Shore High Tide</p>
+    <body>
+        <header>
+            <a class="header-title" href="#">William Betteridge</a>
+            <nav class="header-title">
+                <a href="/"><li>Home</li></a>
+                <a href="/experience"><li>Experience</li></a>
+                <a href="/projects"><li>Projects</li></a>
+                <a href="/photography"><li>Photography</li></a>
+            </nav>
+        </header>
+        <div class="no-image" id="home"></div>
+        <main>
+            <h3 style="margin: 30px">The Wirral</h3>
+            <div class="gallery" id="gallery">
+                <div class="photo" onclick="openModal(0)">
+                    <img src="https://live.staticflickr.com/65535/53777824436_83a4433432_b.jpg" alt="Liverpool Cranes from Leasowe Lighthouse" />
+                    <div class="caption">Liverpool Cranes from Leasowe Lighthouse</div>
+                </div>
+                <div class="photo" onclick="openModal(1)">
+                    <img src="https://live.staticflickr.com/65535/53778147694_50dba5a8a6_b.jpg" alt="Moel Famau at Winter Sunset" />
+                    <div class="caption">Moel Famau at Winter Sunset</div>
+                </div>
+                <div class="photo" onclick="openModal(2)">
+                    <img src="https://live.staticflickr.com/65535/53776902957_948010ec39_b.jpg" alt="Heswall Shore High Tide" />
+                    <div class="caption">Heswall Shore High Tide</div>
+                </div>
+                <div class="photo" onclick="openModal(3)">
+                    <img src="https://live.staticflickr.com/65535/53777821336_f98ebc7498_b.jpg" alt="Winter Sunrise from Thurstaston Hill" />
+                    <div class="caption">Winter Sunrise from Thurstaston Hill</div>
+                </div>
+                <div class="photo" onclick="openModal(4)">
+                    <img src="https://live.staticflickr.com/65535/53777824396_76e0b510f4_b.jpg" alt="Little Eye" />
+                    <div class="caption">Little Eye</div>
+                </div>
+                <div class="photo" onclick="openModal(5)">
+                    <img src="https://live.staticflickr.com/65535/53777822756_c7731c9ce8_b.jpg" alt="Parkgate Sunset" />
+                    <div class="caption">Parkgate Sunset</div>
+                </div>
+                <div class="photo" onclick="openModal(6)">
+                    <img src="https://live.staticflickr.com/65535/53778242720_11fe5b5977_b.jpg" alt="Meols Beach" />
+                    <div class="caption">Meols Beach</div>
+                </div>
+                <div class="photo" onclick="openModal(7)">
+                    <img src="https://live.staticflickr.com/65535/53777823176_b7a2dec892_b.jpg" alt="Oldfield Farm Cows" />
+                    <div class="caption">Oldfield Farm Cows</div>
+                </div>
+                <div class="photo" onclick="openModal(8)">
+                    <img src="https://live.staticflickr.com/65535/53777824436_83a4433432_b.jpg" alt="Liverpool Cranes from Leasowe Lighthouse" />
+                    <div class="caption">Liverpool Cranes from Leasowe Lighthouse</div>
+                </div>
             </div>
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53777821336_f98ebc7498_o.jpg"/>
-                <p class="photo-title">Winter Sunrise from Thurstaston Hill</p>
-                <img src="https://live.staticflickr.com/65535/53777824396_76e0b510f4_o.jpg"/>
-                <p class="photo-title">Little Eye</p>
-                <img src="https://live.staticflickr.com/65535/53777822756_c7731c9ce8_o.jpg"/>
-                <p class="photo-title">Parkgate Sunset</p>
-            </div>
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53778242720_11fe5b5977_o.jpg"/>
-                <p class="photo-title">Meols Beach</p>
-                <img src="https://live.staticflickr.com/65535/53777823176_b7a2dec892_o.jpg"/>
-                <p class="photo-title">Oldfield Farm Cows</p>
-                <img src="https://live.staticflickr.com/65535/53777824436_83a4433432_o.jpg"/>
-                <p class="photo-title">Liverpool Cranes from Leasowe Lighthouse</p>
-            </div>
-        </div>
-        <br>
-    </main>
 
-    <script src="/script.js"></script>
-</body>
+            <div class="modal" id="modal">
+                <span class="close" onclick="closeModal()">&times;</span>
+                <span class="prev" onclick="changePhoto(-1)">&#10094;</span>
+                <span class="next" onclick="changePhoto(1)">&#10095;</span>
+                <div class="modal-content">
+                    <img id="modal-img" src="" alt="" />
+                </div>
+            </div>
+        </main>
 
+        <script src="/script.js"></script>
+        <script src="/photography/gallery/gallery-script.js"></script>
+    </body>
 </html>
