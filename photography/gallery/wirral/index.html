@@ -1,65 +1,179 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <link rel="stylesheet" href="/style.css" />
+        <link rel="stylesheet" href="/photography/photography-styling.css" />
+        <link rel="stylesheet" href="/photography/gallery/gallery-styling.css" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+        <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon" />
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap" rel="stylesheet" />
+        <title>William Betteridge</title>
+    </head>
 
-<head>
-    <link rel="stylesheet" href="/style.css" />
-    <link rel="stylesheet" href="/photography/photography-styling.css" />
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
-    <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon"/>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap"
-        rel="stylesheet">
-    <title>William Betteridge</title>
-</head>
-
-<body>
-    <header>
-        <a class="header-title" href="#">William Betteridge</a>
-        <nav class="header-title">
-            <a href="/"><li>Home</li></a>
-            <a href="/experience"><li>Experience</li></a>
-            <a href="/projects"><li>Projects</li></a>
-            <a href="/photography"><li>Photography</li></a>
-        </nav>
-    </header>
-    <div class="no-image" id="home"></div>
-
-    <main>
-        <br>
-        <h3 style="margin: 30px;">The Wirral</h3>
-        <br>
-        <br>
-        <div class="photo-row">
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53777824436_83a4433432_o.jpg" alt="LeasoweToLiverpool"/>
-                <p class="photo-title">Liverpool Cranes from Leasowe Lighthouse</p>
-                <img src="https://live.staticflickr.com/65535/53778147694_50dba5a8a6_o.jpg"/>
-                <p class="photo-title">Moel Famau at Winter Sunset</p>
-                <img src="https://live.staticflickr.com/65535/53776902957_948010ec39_o.jpg"/>
-                <p class="photo-title">Heswall Shore High Tide</p>
+    <body>
+        <header>
+            <a class="header-title" href="#">William Betteridge</a>
+            <nav class="header-title">
+                <a href="/"><li>Home</li></a>
+                <a href="/experience"><li>Experience</li></a>
+                <a href="/projects"><li>Projects</li></a>
+                <a href="/photography"><li>Photography</li></a>
+            </nav>
+        </header>
+        <div class="no-image" id="home"></div>
+        <main>
+            <h3 style="margin: 30px">The Wirral</h3>
+            <div class="gallery" id="gallery">
+                <div class="photo" onclick="openModal(0)">
+                    <img src="https://live.staticflickr.com/65535/53777824436_83a4433432_b.jpg" alt="Liverpool Cranes from Leasowe Lighthouse" />
+                    <div class="caption">Liverpool Cranes from Leasowe Lighthouse</div>
+                </div>
+                <div class="photo" onclick="openModal(1)">
+                    <img src="https://live.staticflickr.com/65535/53778147694_50dba5a8a6_b.jpg" alt="Moel Famau at Winter Sunset" />
+                    <div class="caption">Moel Famau at Winter Sunset</div>
+                </div>
+                <div class="photo" onclick="openModal(2)">
+                    <img src="https://live.staticflickr.com/65535/53776902957_948010ec39_b.jpg" alt="Heswall Shore High Tide" />
+                    <div class="caption">Heswall Shore High Tide</div>
+                </div>
+                <div class="photo" onclick="openModal(3)">
+                    <img src="https://live.staticflickr.com/65535/53777821336_f98ebc7498_b.jpg" alt="Winter Sunrise from Thurstaston Hill" />
+                    <div class="caption">Winter Sunrise from Thurstaston Hill</div>
+                </div>
+                <div class="photo" onclick="openModal(4)">
+                    <img src="https://live.staticflickr.com/65535/53777824396_76e0b510f4_b.jpg" alt="Little Eye" />
+                    <div class="caption">Little Eye</div>
+                </div>
+                <div class="photo" onclick="openModal(5)">
+                    <img src="https://live.staticflickr.com/65535/53777822756_c7731c9ce8_b.jpg" alt="Parkgate Sunset" />
+                    <div class="caption">Parkgate Sunset</div>
+                </div>
+                <div class="photo" onclick="openModal(6)">
+                    <img src="https://live.staticflickr.com/65535/53778242720_11fe5b5977_b.jpg" alt="Meols Beach" />
+                    <div class="caption">Meols Beach</div>
+                </div>
+                <div class="photo" onclick="openModal(7)">
+                    <img src="https://live.staticflickr.com/65535/53777823176_b7a2dec892_b.jpg" alt="Oldfield Farm Cows" />
+                    <div class="caption">Oldfield Farm Cows</div>
+                </div>
+                <div class="photo" onclick="openModal(8)">
+                    <img src="https://live.staticflickr.com/65535/53777824436_83a4433432_b.jpg" alt="Liverpool Cranes from Leasowe Lighthouse" />
+                    <div class="caption">Liverpool Cranes from Leasowe Lighthouse</div>
+                </div>
+                <div class="photo" onclick="openModal(9)">
+                    <img src="https://live.staticflickr.com/65535/54545119734_9fe94c9681_b.jpg" alt="Heswall Shore Low Tide" />
+                    <div class="caption">Heswall Shore Low Tide</div>
+                </div>
+                <div class="photo" onclick="openModal(10)">
+                    <img src="https://live.staticflickr.com/65535/54545119519_d816d2e3a3_b.jpg" alt="Hilbre Island & North Wales Sunset" />
+                    <div class="caption">Hilbre Island & North Wales Sunset</div>
+                </div>
+                <div class="photo" onclick="openModal(11)">
+                    <img src="https://live.staticflickr.com/65535/54561424042_1725577b65_b.jpg" alt="New Brighton Lighthouse" />
+                    <div class="caption">New Brighton Lighthouse</div>
+                </div>
+                <div class="photo" onclick="openModal(12)">
+                    <img src="https://live.staticflickr.com/65535/54561423527_44f5e0354a_b.jpg" alt="Parkgate Sunset" />
+                    <div class="caption">Parkgate Sunset</div>
+                </div>
+                <div class="photo" onclick="openModal(13)">
+                    <img src="https://live.staticflickr.com/65535/54562480989_a5acd53133_b.jpg" alt="Ness Gardens Waterfall" />
+                    <div class="caption">Ness Gardens Waterfall</div>
+                </div>
+                <div class="photo" onclick="openModal(14)">
+                    <img src="https://live.staticflickr.com/65535/54562628845_f335f7ea29_b.jpg" alt="Hoylake Sand Dunes" />
+                    <div class="caption">Hoylake Sand Dunes</div>
+                </div>
+                <div class="photo" onclick="openModal(15)">
+                    <img src="https://live.staticflickr.com/65535/54562628735_88a23972d2_b.jpg" alt="Heswall Golf Club Sunset" />
+                    <div class="caption">Heswall Golf Club Sunset</div>
+                </div>
+                <div class="photo" onclick="openModal(16)">
+                    <img src="https://live.staticflickr.com/65535/54562538098_6751342064_b.jpg" alt="Red Rocks" />
+                    <div class="caption">Red Rocks</div>
+                </div>
+                <div class="photo" onclick="openModal(17)">
+                    <img src="https://live.staticflickr.com/65535/54562481044_3550502f29_b.jpg" alt="Snowy Moel Famau" />
+                    <div class="caption">Snowy Moel Famau</div>
+                </div>
+                <div class="photo" onclick="openModal(18)">
+                    <img src="https://live.staticflickr.com/65535/54562479374_a4ee9d1c34_b.jpg" alt="Hoylake Sand Dunes Sunset" />
+                    <div class="caption">Hoylake Sand Dunes Sunset</div>
+                </div>
+                <div class="photo" onclick="openModal(19)">
+                    <img src="https://live.staticflickr.com/65535/54562298186_112b66cd68_b.jpg" alt="Red Rocks & Wind Pylons" />
+                    <div class="caption">Red Rocks & Wind Pylons</div>
+                </div>
+                <div class="photo" onclick="openModal(20)">
+                    <img src="https://live.staticflickr.com/65535/54562627200_8d14c5782e_b.jpg" alt="Heswall Shore Boats" />
+                    <div class="caption">Heswall Shore Boats</div>
+                </div>
+                <div class="photo" onclick="openModal(21)">
+                    <img src="https://live.staticflickr.com/65535/54562536688_d5d883bdfe_b.jpg" alt="Heswall Shore Sunset" />
+                    <div class="caption">Heswall Shore Sunset</div>
+                </div>
+                <div class="photo" onclick="openModal(22)">
+                    <img src="https://live.staticflickr.com/65535/54561421987_a8abd09bd8_b.jpg" alt="Royal Liverpool Golf Club" />
+                    <div class="caption">Royal Liverpool Golf Club</div>
+                </div>
+                <div class="photo" onclick="openModal(23)">
+                    <img src="https://live.staticflickr.com/65535/54562536823_6711c360cf_b.jpg" alt="Port Sunlight War Memorial" />
+                    <div class="caption">Port Sunlight War Memorial</div>
+                </div>
+                <div class="photo" onclick="openModal(24)">
+                    <img src="https://live.staticflickr.com/65535/54562536858_4572ae18a8_b.jpg" alt="Liverpool Anglican Cathedral over the River Mersey" />
+                    <div class="caption">Liverpool Anglican Cathedral over the River Mersey</div>
+                </div>
+                <div class="photo" onclick="openModal(25)">
+                    <img src="https://live.staticflickr.com/65535/54562627490_b8400700bf_b.jpg" alt="Liverpool Anglican Cathedral" />
+                    <div class="caption"></div>
+                </div>
+                <div class="photo" onclick="openModal(26)">
+                    <img src="https://live.staticflickr.com/65535/54562536958_a604c1c70c_b.jpg" alt="Little Eye Sunset" />
+                    <div class="caption">Little Eye Sunset</div>
+                </div>
+                <div class="photo" onclick="openModal(27)">
+                    <img src="https://live.staticflickr.com/65535/54561422182_df272fcbe0_b.jpg" alt="Bidston Windmill" />
+                    <div class="caption">Bidston Windmill</div>
+                </div>
+                <div class="photo" onclick="openModal(28)">
+                    <img src="https://live.staticflickr.com/65535/54562479914_0edf8ec967_b.jpg" alt="New Brighton Lighthouse" />
+                    <div class="caption">New Brighton Lighthouse</div>
+                </div>
+                <div class="photo" onclick="openModal(29)">
+                    <img src="https://live.staticflickr.com/65535/54562479939_2b8f57abc4_b.jpg" alt="New Brighton High Tide" />
+                    <div class="caption">New Brighton High Tide</div>
+                </div>
+                <div class="photo" onclick="openModal(30)">
+                    <img src="https://live.staticflickr.com/65535/54561410532_5d87c8939e_b.jpg" alt="Caldy Beach Sunset" />
+                    <div class="caption">Caldy Beach Sunset</div>
+                </div>
+                <div class="photo" onclick="openModal(31)">
+                    <img src="https://live.staticflickr.com/65535/54562298211_508a1e0721_b.jpg" alt="Bidston Windmill" />
+                    <div class="caption">Bidston Windmill</div>
+                </div>
+                <div class="photo" onclick="openModal(32)">
+                    <img src="https://live.staticflickr.com/65535/54562536653_fabe575a65_b.jpg" alt="St Bartholomew's Church" />
+                    <div class="caption">St Bartholomew's Church</div>
+                </div>
+                <div class="photo" onclick="openModal(33)">
+                    <img src="https://live.staticflickr.com/65535/54562283151_b2a86bd55b_b.jpg" alt="Pyschedelic Starlight (Hoylake Christmas Lights)" />
+                    <div class="caption">Pyschedelic Starlight (Hoylake Christmas Lights)</div>
+                </div>
             </div>
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53777821336_f98ebc7498_o.jpg"/>
-                <p class="photo-title">Winter Sunrise from Thurstaston Hill</p>
-                <img src="https://live.staticflickr.com/65535/53777824396_76e0b510f4_o.jpg"/>
-                <p class="photo-title">Little Eye</p>
-                <img src="https://live.staticflickr.com/65535/53777822756_c7731c9ce8_o.jpg"/>
-                <p class="photo-title">Parkgate Sunset</p>
-            </div>
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53778242720_11fe5b5977_o.jpg"/>
-                <p class="photo-title">Meols Beach</p>
-                <img src="https://live.staticflickr.com/65535/53777823176_b7a2dec892_o.jpg"/>
-                <p class="photo-title">Oldfield Farm Cows</p>
-                <img src="https://live.staticflickr.com/65535/53777824436_83a4433432_o.jpg"/>
-                <p class="photo-title">Liverpool Cranes from Leasowe Lighthouse</p>
-            </div>
-        </div>
-        <br>
-    </main>
 
-    <script src="/script.js"></script>
-</body>
+            <div class="modal" id="modal">
+                <span class="close" onclick="closeModal()">&times;</span>
+                <span class="prev" onclick="changePhoto(-1)">&#10094;</span>
+                <span class="next" onclick="changePhoto(1)">&#10095;</span>
+                <div class="modal-content">
+                    <img id="modal-img" src="" alt="" />
+                </div>
+            </div>
+        </main>
 
+        <script src="/script.js"></script>
+        <script src="/photography/gallery/gallery-script.js"></script>
+    </body>
 </html>

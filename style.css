@@ -26,7 +26,6 @@
     /* --primary: #9db4c0ff;
     --secondary: #5c6b73ff;
     --accent: #253237ff; */
-
 }
 
 * {
@@ -78,7 +77,7 @@ nav > * {
     flex-grow: 1;
     align-items: center;
     justify-content: center;
-    font-family: 'Diphylleia', sans-serif;
+    font-family: "Diphylleia", sans-serif;
     padding-top: 0.5vh;
     padding-bottom: 0.5vh;
 }
@@ -99,16 +98,15 @@ header > nav > a > li {
 body {
     min-height: 100vh;
     /* padding-bottom: 100px; */
-
 }
 
 #home {
-	/* height: 72vh; */
+    /* height: 72vh; */
     height: 33vh;
-	max-width: 100%;
-	background: url("./assets/img/Suilven-banner-small.png");
-	background-size: cover;
-	background-position: top;
+    max-width: 100%;
+    background: url("./assets/img/Suilven-banner-small.png");
+    background-size: cover;
+    background-position: top;
 }
 
 #home.no-image {
@@ -126,45 +124,45 @@ body {
 } */
 
 .m_aboutSection {
-  max-width: 1080px;
-  background-color: #ffffff;
-  border-radius: 12px;
-  padding: 30px 40px;
-  box-shadow: 0 6px 16px rgb(0 0 0 / 0.1);
-  margin: 40px auto;
-  color: #2c3e50;
-  font-family: inherit;
-  line-height: 1.6;
+    max-width: 1080px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 30px 40px;
+    box-shadow: 0 6px 16px rgb(0 0 0 / 0.1);
+    margin: 40px auto;
+    color: #2c3e50;
+    font-family: inherit;
+    line-height: 1.6;
 }
 
 .m_aboutSection h3 {
-  font-size: 2rem;
-  margin-bottom: 20px;
-  color: #34495e;
-  border-bottom: 2px solid #547aa5;
-  padding-bottom: 6px;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #34495e;
+    border-bottom: 2px solid #547aa5;
+    padding-bottom: 6px;
 }
 
 .m_aboutSection p {
-  font-size: 1.15rem;
-  margin-bottom: 20px;
-  color: #4a5668;
+    font-size: 1.15rem;
+    margin-bottom: 20px;
+    color: #4a5668;
 }
 
 .experience-container {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .experience {
-	max-width: 700px;
-	margin: 1em;
-	padding: 1em;
-	background-color: #f9f9f9;
-	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-	border-radius: 5px;
-	line-height: 1.5rem;
+    max-width: 700px;
+    margin: 1em;
+    padding: 1em;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    line-height: 1.5rem;
 }
 
 .grid-container {
@@ -177,7 +175,7 @@ body {
 .grid-item {
     position: relative; /* Needed for absolute positioning of overlay */
 }
-  
+
 .image-overlay {
     position: absolute;
     top: 0;
@@ -220,10 +218,10 @@ section h4 {
 }
 
 section h6 {
-	font-size: 0.9rem;
-	color: #568a8c;
-	text-align: center;
-	padding: 0.2em;
+    font-size: 0.9rem;
+    color: #568a8c;
+    text-align: center;
+    padding: 0.2em;
 }
 
 .socialsSection {
@@ -289,73 +287,62 @@ footer {
 /* styling text */
 
 .header-title a {
-    color:#f0ffff
+    color: #f0ffff;
 }
 
 a {
     text-decoration: none;
     color: var(--text);
-
 }
 
-p, a {
+p,
+a {
     font-size: 1.33rem;
-    font-family: 'Dosis';
+    font-family: "Dosis";
     font-weight: 400;
 }
-  
-h1, h2, h3, h4, h5, .header-title {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.header-title {
     font-weight: 400;
-    font-family: 'Cinzel Decorative';
+    font-family: "Cinzel Decorative";
 }
 
-html {font-size: 100%;} /* 16px */
+html {
+    font-size: 100%;
+} /* 16px */
 
-h1 {font-size: 5.652rem; /* 90.4px */}
+h1 {
+    font-size: 5.652rem; /* 90.4px */
+}
 
-h2 {font-size: 3.997rem; /* 64px */}
+h2 {
+    font-size: 3.997rem; /* 64px */
+}
 
 h3 {
     font-size: 2.827rem; /* 45.28px */
     margin-bottom: 2rem;
 }
 
-h4 {font-size: 1.999rem; /* 32px */}
+h4 {
+    font-size: 1.999rem; /* 32px */
+}
 
-h5 {font-size: 1.414rem; /* 22.56px */}
+h5 {
+    font-size: 1.414rem; /* 22.56px */
+}
 
-small {font-size: 0.707rem; /* 11.36px */}
+small {
+    font-size: 0.707rem; /* 11.36px */
+}
 
 ul {
     font-size: 1.33rem;
-    font-family: 'Dosis';
+    font-family: "Dosis";
     font-weight: 400;
-}
-
-
-
-    .projects-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
-}
-
-.project-card {
-  background: #fff;
-  border-radius: 1rem;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-  padding: 1.5rem;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.project-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
-}
-
-.project-card img {
-  width: 100%;
-  border-radius: 0.5rem;
-  margin-bottom: 1rem;
 }

@@ -1,47 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <link rel="stylesheet" href="/style.css" />
+        <link rel="stylesheet" href="/photography/photography-styling.css" />
+        <link rel="stylesheet" href="/photography/gallery/gallery-styling.css" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+        <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon" />
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap" rel="stylesheet" />
+        <title>William Betteridge</title>
+    </head>
 
-<head>
-    <link rel="stylesheet" href="/style.css" />
-    <link rel="stylesheet" href="/photography/photography-styling.css" />
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
-    <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon"/>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap"
-        rel="stylesheet">
-    <title>William Betteridge</title>
-</head>
+    <body>
+        <header>
+            <a class="header-title" href="#">William Betteridge</a>
+            <nav class="header-title">
+                <a href="/"><li>Home</li></a>
+                <a href="/experience"><li>Experience</li></a>
+                <a href="/projects"><li>Projects</li></a>
+                <a href="/photography"><li>Photography</li></a>
+            </nav>
+        </header>
+        <div class="no-image" id="home"></div>
 
-<body>
-    <header>
-        <a class="header-title" href="#">William Betteridge</a>
-        <nav class="header-title">
-            <a href="/"><li>Home</li></a>
-            <a href="/experience"><li>Experience</li></a>
-            <a href="/projects"><li>Projects</li></a>
-            <a href="/photography"><li>Photography</li></a>
-        </nav>
-    </header>
-    <div class="no-image" id="home"></div>
-
-    <main>
-        <br>
-        <h3 style="margin: 30px;">Lake District</h3>
-        <br>
-        <br>
-        <div class="photo-row">
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53844155489_d464532b5d_o.jpg"/>
+        <main>
+            <h3 style="margin: 30px">Lake District</h3>
+            <div class="gallery" id="gallery">
+                <div class="photo" onclick="openModal(0)">
+                    <img src="https://live.staticflickr.com/65535/53844155489_d464532b5d_b.jpg" alt="Whiteside & Grasmoor Over Loweswater" />
+                    <div class="caption">Whiteside & Grasmoor Over Loweswater</div>
+                </div>
+                <div class="photo" onclick="openModal(1)">
+                    <img src="https://live.staticflickr.com/65535/54545271320_c5330d6719_b.jpg" alt="Crummock Water Pebbles & Reflections" />
+                    <div class="caption">Crummock Water Pebbles & Reflections</div>
+                </div>
+                <div class="photo" onclick="openModal(2)">
+                    <img src="https://live.staticflickr.com/65535/54562616400_3788131c8b_b.jpg" alt="Loweswater Reflections" />
+                    <div class="caption">Loweswater Reflections</div>
+                </div>
+                <div class="photo" onclick="openModal(3)">
+                    <img src="https://live.staticflickr.com/65535/54562616420_73aa4d3284_b.jpg" alt="Rannerdale Knotts" />
+                    <div class="caption">Rannerdale Knotts</div>
+                </div>
+                <div class="photo" onclick="openModal(4)">
+                    <img src="https://live.staticflickr.com/65535/54544933156_a3709fed6f_b.jpg" alt="Crummock Water" />
+                    <div class="caption">Crummock Water</div>
+                </div>
+                <div class="photo" onclick="openModal(5)">
+                    <img src="https://live.staticflickr.com/65535/54544939211_cfcafe2010_b.jpg" alt="Derwent Water" />
+                    <div class="caption">Derwent Water</div>
+                </div>
+                <div class="photo" onclick="openModal(6)">
+                    <img src="https://live.staticflickr.com/65535/54544056027_54bec41255_b.jpg" alt="Langdale Pikes" />
+                    <div class="caption">Langdale Pikes</div>
+                </div>
+                <div class="photo" onclick="openModal(7)">
+                    <img src="https://live.staticflickr.com/65535/54545155858_3726f6dc77_b.jpg" alt="Crummock Water & Melbreak" />
+                    <div class="caption">Crummock Water & Melbreak</div>
+                </div>
+                <div class="photo" onclick="openModal(8)">
+                    <img src="https://live.staticflickr.com/65535/54545103279_db02c11fdd_b.jpg" alt="Whiteside & Grasmoor from Burnbank Fell" />
+                    <div class="caption">Whiteside & Grasmoor from Burnbank Fell</div>
+                </div>
+                <div class="photo" onclick="openModal(9)">
+                    <img src="https://live.staticflickr.com/65535/54544916646_9f66d0c994_b.jpg" alt="Lorton Valley" />
+                    <div class="caption">Lorton Valley</div>
+                </div>
+                <div class="photo" onclick="openModal(10)">
+                    <img src="https://live.staticflickr.com/65535/54545251705_897efcf72b_b.jpg" alt="Whin Ben Sunset" />
+                    <div class="caption">Whin Ben Sunset</div>
+                </div>
             </div>
-            <div class="photo-column">
-            </div>
-            <div class="photo-column">
-            </div>
-        </div>
-    </main>
 
-    <script src="/script.js"></script>
-</body>
+            <div class="modal" id="modal">
+                <span class="close" onclick="closeModal()">&times;</span>
+                <span class="prev" onclick="changePhoto(-1)">&#10094;</span>
+                <span class="next" onclick="changePhoto(1)">&#10095;</span>
+                <div class="modal-content">
+                    <img id="modal-img" src="" alt="" />
+                </div>
+            </div>
+        </main>
 
+        <script src="/script.js"></script>
+        <script src="/photography/gallery/gallery-script.js"></script>
+    </body>
 </html>

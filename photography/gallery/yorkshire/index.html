@@ -1,49 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <link rel="stylesheet" href="/style.css" />
+        <link rel="stylesheet" href="/photography/photography-styling.css" />
+        <link rel="stylesheet" href="/photography/gallery/gallery-styling.css" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+        <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon" />
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap" rel="stylesheet" />
+        <title>William Betteridge</title>
+    </head>
 
-<head>
-    <link rel="stylesheet" href="/style.css" />
-    <link rel="stylesheet" href="/photography/photography-styling.css" />
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
-    <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon"/>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap"
-        rel="stylesheet">
-    <title>William Betteridge</title>
-</head>
+    <body>
+        <header>
+            <a class="header-title" href="#">William Betteridge</a>
+            <nav class="header-title">
+                <a href="/"><li>Home</li></a>
+                <a href="/experience"><li>Experience</li></a>
+                <a href="/projects"><li>Projects</li></a>
+                <a href="/photography"><li>Photography</li></a>
+            </nav>
+        </header>
+        <div class="no-image" id="home"></div>
 
-<body>
-    <header>
-        <a class="header-title" href="#">William Betteridge</a>
-        <nav class="header-title">
-            <a href="/"><li>Home</li></a>
-            <a href="/experience"><li>Experience</li></a>
-            <a href="/projects"><li>Projects</li></a>
-            <a href="/photography"><li>Photography</li></a>
-        </nav>
-    </header>
-    <div class="no-image" id="home"></div>
-
-    <main>
-        <br>
-        <h3 style="margin: 30px;">Yorkshire</h3>
-        <br>
-        <br>
-        <div class="photo-row">
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53778239760_a0f272b153_o.jpg"/>
+        <main>
+            <h3 style="margin: 30px">Yorkshire</h3>
+            <div class="gallery" id="gallery">
+                <div class="photo" onclick="openModal(0)">
+                    <img src="https://live.staticflickr.com/65535/53778239760_a0f272b153_b.jpg" alt="York Minster" />
+                    <div class="caption">York Minster</div>
+                </div>
+                <div class="photo" onclick="openModal(1)">
+                    <img src="https://live.staticflickr.com/65535/53778240605_58a8e0728c_b.jpg" alt="Whitby Abbey" />
+                    <div class="caption">Whitby Abbey</div>
+                </div>
+                <div class="photo" onclick="openModal(2)">
+                    <img src="https://live.staticflickr.com/65535/53776899442_dd01a99f7d_b.jpg" alt="Whitby Harbour" />
+                    <div class="caption">Whitby Harbour</div>
+                </div>
+                <div class="photo" onclick="openModal(3)">
+                    <img src="https://live.staticflickr.com/65535/54544935286_7a30972916_b.jpg" alt="Cliffords Tower" />
+                    <div class="caption">Cliffords Tower</div>
+                </div>
+                <div class="photo" onclick="openModal(4)">
+                    <img src="https://live.staticflickr.com/65535/54544057362_522249d59e_b.jpg" alt="Roseberry Topping" />
+                    <div class="caption">Roseberry Topping</div>
+                </div>
+                <div class="photo" onclick="openModal(5)">
+                    <img src="https://live.staticflickr.com/65535/54545158728_34f61bb4f5_b.jpg" alt="Flamborough Head Sunset" />
+                    <div class="caption">Flamborough Head Sunset</div>
+                </div>
+                <div class="photo" onclick="openModal(6)">
+                    <img src="https://live.staticflickr.com/65535/54562291736_8b7a103f7c_b.jpg" alt="University of York Campus East" />
+                    <div class="caption">University of York Campus East</div>
+                </div>
             </div>
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53778240605_58a8e0728c_o.jpg"/>
-            </div>
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53776899442_dd01a99f7d_o.jpg"/>
-            </div>
-        </div>
-    </main>
 
-    <script src="/script.js"></script>
-</body>
+            <div class="modal" id="modal">
+                <span class="close" onclick="closeModal()">&times;</span>
+                <span class="prev" onclick="changePhoto(-1)">&#10094;</span>
+                <span class="next" onclick="changePhoto(1)">&#10095;</span>
+                <div class="modal-content">
+                    <img id="modal-img" src="" alt="" />
+                </div>
+            </div>
+        </main>
 
+        <script src="/script.js"></script>
+        <script src="/photography/gallery/gallery-script.js"></script>
+    </body>
 </html>

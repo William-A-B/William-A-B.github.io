@@ -43,7 +43,7 @@
 /* Dot perfectly centered on card */
 .timeline-dot {
   position: absolute;
-  top: 50%;
+  top: 20%;
   transform: translateY(-50%);
   left: 31px;
   width: 18px;

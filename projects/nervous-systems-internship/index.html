@@ -1,44 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <link rel="stylesheet" href="/style.css" />
+        <link rel="stylesheet" href="/styling/section_box.css" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+        <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon" />
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap" rel="stylesheet" />
+        <title>William Betteridge</title>
+    </head>
 
-<head>
-    <link rel="stylesheet" href="/style.css" />
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
-    <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon"/>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap"
-        rel="stylesheet">
-    <title>William Betteridge</title>
-</head>
+    <body>
+        <header>
+            <a class="header-title" href="#">William Betteridge</a>
+            <nav class="header-title">
+                <a href="/"><li>Home</li></a>
+                <a href="/experience"><li>Experience</li></a>
+                <a href="/projects"><li>Projects</li></a>
+                <a href="/photography"><li>Photography</li></a>
+            </nav>
+        </header>
+        <div class="no-image" id="home"></div>
 
-<body>
-    <header>
-        <a class="header-title" href="#">William Betteridge</a>
-        <nav class="header-title">
-            <a href="/"><li>Home</li></a>
-            <a href="/experience"><li>Experience</li></a>
-            <a href="/projects"><li>Projects</li></a>
-            <a href="/photography"><li>Photography</li></a>
-        </nav>
-    </header>
-    <div class="no-image" id="home"></div>
-
-    <main style="padding: 1.5rem">
-        <a href="https://www-users.york.ac.uk/~mt540/nervous-systems/index.html" title="Nervous Systems Project Website" target="_blank">
-            <u><h3>Nervous Systems Internship - Nervous Robot</h3></u>
-        </a>
-        <p>Development of the first practical hardware implementation of a biologically inspired spiking neural network at the University
-            of York’s £850,000 EPSRC funded Nervous Systems research group. Where I implemented custom artificial neural microcircuits to control a robot and achieve basic obstacle avoidance.
-        </p>
-        <br />
-        <br />
-        <div style="text-align:center">
-            <object data="../../assets/files/Nervous_Robot_Poster.pdf" type="application/pdf" width="100%" height="800px">
-                alt : <a href="../../assets/files/Nervous_Robot_Poster.pdf">Nervous Robot Poster.pdf</a>
-            </object>
-        </div>
-    </main>
-</body>
-
+        <main style="padding: 1.5rem">
+            <section class="section-box">
+                <a href="https://www-users.york.ac.uk/~mt540/nervous-systems/index.html" title="Nervous Systems Project Website" target="_blank">
+                    <u><h3>Nervous Systems Internship - Nervous Robot</h3></u>
+                </a>
+                <ul>
+                    <li>
+                        Development of the first practical hardware implementation of a biologically inspired spiking neural network at the University of York’s £850,000 EPSRC funded Nervous Systems
+                        research group.
+                    </li>
+                    <li> Implemented custom artificial neural microcircuits to control a robot and achieve basic obstacle avoidance. </li>
+                    <li>
+                        Learned advanced Python programming skills using the Brian2 SNN library to create a modular program design and also acquired a deeper understanding of hardware-software
+                        communication.
+                    </li>
+                    <li>
+                        Published an abstract and poster at the 2025 IEEE Symposium Series on Computational Intelligence and presented the same research at an international workshop on Reliable and
+                        Sustainable Neuromorphic Hardware in York.
+                    </li>
+                </ul>
+                <br />
+                <br />
+                <div style="text-align: center">
+                    <object data="../../assets/files/Nervous_Robot_Poster.pdf" type="application/pdf" width="100%" height="800px">
+                        alt : <a href="../../assets/files/Nervous_Robot_Poster.pdf">Nervous Robot Poster.pdf</a>
+                    </object>
+                </div>
+            </section>
+        </main>
+    </body>
 </html>

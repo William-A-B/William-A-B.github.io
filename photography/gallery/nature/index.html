@@ -1,47 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <link rel="stylesheet" href="/style.css" />
+        <link rel="stylesheet" href="/photography/photography-styling.css" />
+        <link rel="stylesheet" href="/photography/gallery/gallery-styling.css" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+        <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon" />
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap" rel="stylesheet" />
+        <title>William Betteridge</title>
+    </head>
 
-<head>
-    <link rel="stylesheet" href="/style.css" />
-    <link rel="stylesheet" href="/photography/photography-styling.css" />
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
-    <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon"/>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap"
-        rel="stylesheet">
-    <title>William Betteridge</title>
-</head>
+    <body>
+        <header>
+            <a class="header-title" href="#">William Betteridge</a>
+            <nav class="header-title">
+                <a href="/"><li>Home</li></a>
+                <a href="/experience"><li>Experience</li></a>
+                <a href="/projects"><li>Projects</li></a>
+                <a href="/photography"><li>Photography</li></a>
+            </nav>
+        </header>
+        <div class="no-image" id="home"></div>
 
-<body>
-    <header>
-        <a class="header-title" href="#">William Betteridge</a>
-        <nav class="header-title">
-            <a href="/"><li>Home</li></a>
-            <a href="/experience"><li>Experience</li></a>
-            <a href="/projects"><li>Projects</li></a>
-            <a href="/photography"><li>Photography</li></a>
-        </nav>
-    </header>
-    <div class="no-image" id="home"></div>
-
-    <main>
-        <br>
-        <h3 style="margin: 30px;">Nature</h3>
-        <br>
-        <br>
-        <div class="photo-row">
-            <div class="photo-column">
-                <img src="https://live.staticflickr.com/65535/53844227275_6e1099aa64_o.jpg"/>
+        <main>
+            <h3 style="margin: 30px">Nature</h3>
+            <div class="gallery" id="gallery">
+                <div class="photo" onclick="openModal(0)">
+                    <img src="https://live.staticflickr.com/65535/53844227275_6e1099aa64_b.jpg" alt="Hydrangea" />
+                    <div class="caption">Hydrangea</div>
+                </div>
+                <div class="photo" onclick="openModal(1)">
+                    <img src="https://live.staticflickr.com/65535/54544937081_fc6eeeffd3_b.jpg" alt="Freshly Frosted Grass" />
+                    <div class="caption">Freshly Frosted Grass</div>
+                </div>
+                <div class="photo" onclick="openModal(2)">
+                    <img src="https://live.staticflickr.com/65535/54562522908_cebe8f377a_b.jpg" alt="Snowdrops" />
+                    <div class="caption">Snowdrops</div>
+                </div>
+                <div class="photo" onclick="openModal(3)">
+                    <img src="https://live.staticflickr.com/65535/54562522983_9c5557a852_b.jpg" alt="Frosted Lavender" />
+                    <div class="caption">Frosted Lavender</div>
+                </div>
+                <div class="photo" onclick="openModal(4)">
+                    <img src="https://live.staticflickr.com/65535/54562289281_008e67b189_b.jpg" alt="Snowdrops" />
+                    <div class="caption">Snowdrops</div>
+                </div>
+                <div class="photo" onclick="openModal(5)">
+                    <img src="https://live.staticflickr.com/65535/54561414572_9276ce81dd_b.jpg" alt="Daffodils at Bodnant Gardens" />
+                    <div class="caption">Daffodils at Bodnant Gardens</div>
+                </div>
             </div>
-            <div class="photo-column">
-            </div>
-            <div class="photo-column">
-            </div>
-        </div>
-    </main>
 
-    <script src="/script.js"></script>
-</body>
+            <div class="modal" id="modal">
+                <span class="close" onclick="closeModal()">&times;</span>
+                <span class="prev" onclick="changePhoto(-1)">&#10094;</span>
+                <span class="next" onclick="changePhoto(1)">&#10095;</span>
+                <div class="modal-content">
+                    <img id="modal-img" src="" alt="" />
+                </div>
+            </div>
+        </main>
 
+        <script src="/script.js"></script>
+        <script src="/photography/gallery/gallery-script.js"></script>
+    </body>
 </html>
