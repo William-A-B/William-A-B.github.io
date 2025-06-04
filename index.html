@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<link rel="stylesheet" href="/style.css"/>
-    <link rel="stylesheet" href="/styling/section_box.css" />
-    <meta charset="UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta name="author" content="William Betteridge"/>
-    <meta name="description" content="This is the personal webpage for William Betteridge, containing his portfolio of work, experience and various projects"/>
-	<link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon"/>
-    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap" rel="stylesheet"/>
-    <title>William Betteridge</title>
-</head>
+    <head>
+        <link rel="stylesheet" href="/style.css" />
+        <link rel="stylesheet" href="/styling/section_box.css" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="author" content="William Betteridge" />
+        <meta name="description" content="This is the personal webpage for William Betteridge, containing his portfolio of work, experience and various projects" />
+        <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon" />
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap" rel="stylesheet" />
+        <title>William Betteridge</title>
+    </head>
 
-<body>
+    <body>
         <header>
             <a class="header-title" href="#">William Betteridge</a>
             <nav class="header-title">
@@ -22,50 +22,63 @@
                 <a href="/photography"><li>Photography</li></a>
             </nav>
         </header>
-    <div id="home"></div>
+        <div id="home"></div>
 
-    <section class="m_aboutSection">
-        <h3>About Me</h3>
-        <p>
-            Welcome to my website! I am currently studying at the University of York as an electronic engineering student,
-            with a practical ability to explore, understand and develop creative solutions. I also enjoy helping people and solving problems,
-            especially being involved in outdoor activities as well as volunteering in a wide range of areas.
-        </p>
-        <p>
-            On this website you can find information about various projects and other interests I have. This website is currently a work in progress,
-            but is part of a project I am working on to learn some basic web development and create a portfolio website in the process.
-        </p>
-    </section>
-    <!-- Hack to stop footer covering content. -->
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+        <section class="m_aboutSection">
+            <h3>About Me</h3>
+            <p>
+                Welcome to my website! I am currently studying at the University of York as an electronic engineering student, with a practical ability to explore, understand and develop creative
+                solutions. I also enjoy helping people and solving problems, especially being involved in outdoor activities as well as volunteering in a wide range of areas.
+            </p>
+            <p>
+                On this website you can find information about various projects and other interests I have. This website is currently a work in progress, but is part of a project I am working on to
+                learn some basic web development and create a portfolio website in the process.
+            </p>
+        </section>
+        <section class="featured-projects">
+            <h3>Featured Projects</h3>
+            <div class="grid-container">
+                <div class="grid-item">
+                    <img src="/assets/img/flower.jpg" alt="Project 1" />
+                    <div class="text-overlay">
+                        <h4>Robotics Rover</h4>
+                        <p>Autonomous navigation system built with C++ & ROS.</p>
+                    </div>
+                </div>
+                <!-- Add 1–2 more featured projects -->
+            </div>
+        </section>
 
-    <footer>
-        <div class="socialsSection">
-            <div class="socialsIcons">
-                <a href="https://www.linkedin.com/in/william-betteridge/" target="_blank">
-                    <img class="svgWhite" src="/assets/icons/linkedin.svg" alt="LinkedIn">
-                </a>
-                <a href="/assets/files/William-Betteridge-CV.pdf" target="_blank">
-                    <img class="svgWhite" src="/assets/icons/file-cv.svg" alt="CV">
-                </a>
-                <a href="https://github.com/William-A-B" target="_blank">
-                    <img class="svgWhite" src="/assets/icons/github.svg" alt="GitHub">
-                </a>
-                <!--
+        <!-- Hack to stop footer covering content. -->
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+
+        <footer>
+            <div class="socialsSection">
+                <div class="socialsIcons">
+                    <a href="https://www.linkedin.com/in/william-betteridge/" target="_blank">
+                        <img class="svgWhite" src="/assets/icons/linkedin.svg" alt="LinkedIn" />
+                    </a>
+                    <a href="/assets/files/William-Betteridge-CV.pdf" target="_blank">
+                        <img class="svgWhite" src="/assets/icons/file-cv.svg" alt="CV" />
+                    </a>
+                    <a href="https://github.com/William-A-B" target="_blank">
+                        <img class="svgWhite" src="/assets/icons/github.svg" alt="GitHub" />
+                    </a>
+                    <!--
                     If you want to add in more socials, you can grab an svg icon
                     from https://fontawesome.com/search?o=r&f=brands and then place the downloaded
                     file into assets -> icons folder.
     
                     Then you can copy one of the code snippets above and place it
                     under this line -->
+                </div>
             </div>
-        </div>
-    </footer>
+        </footer>
 
-    <script src="/script.js"></script>
-</body>
+        <script src="/script.js"></script>
+    </body>
 </html>

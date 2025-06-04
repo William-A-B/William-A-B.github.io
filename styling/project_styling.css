@@ -1,5 +1,5 @@
 .projects-section {
-    max-width: 1080px;
+    max-width: 1280px;
     background-color: #ffffff;
     border-radius: 12px;
     padding: 30px clamp(15px, 4vw, 40px);
@@ -144,4 +144,10 @@
 
 .project-links a:hover {
     background-color: #405f86;
+}
+
+@media screen and (max-width: 768px) {
+    .project-card img {
+        display: none;
+    }
 }
