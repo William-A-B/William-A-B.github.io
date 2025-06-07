@@ -19,6 +19,19 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
+// Create the map
+var map = L.map('map').setView([51.505, -0.09], 13); // Replace with your coordinates
+
+// Add a tile layer (this example uses OpenStreetMap)
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
+
+// Add a marker
+L.marker([51.505, -0.09]).addTo(map)
+  .bindPopup('Your cool hiking spot!')
+  .openPopup();
+
 // document.addEventListener("DOMContentLoaded", function() {
 //     var footer = document.querySelector("footer");
 //     var lastScrollTop = 0;

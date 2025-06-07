@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+    "features": [
+    {
+        "type": "Feature",
+        "properties": {
+        "name": "Seathwaite Fell",
+        "height": "632m",
+        "book": "Southern Fells",
+        "description": "",
+        "completed": true,
+        "dateCompleted": "22-06-2021"
+        },
+        "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1914801, 54.481268]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+        "name": "Allen Crags",
+        "height": "785m",
+        "book": "Southern Fells",
+        "description": "",
+        "completed": true,
+        "dateCompleted": "22-06-2021"
+        },
+        "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1786964, 54.466115]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+        "name": "Glaramara",
+        "height": "783m",
+        "book": "Southern Fells",
+        "description": "",
+        "completed": true,
+        "dateCompleted": "22-06-2021"
+        },
+        "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1638073, 54.485133]
+        }
+    }
+    ]
+}
