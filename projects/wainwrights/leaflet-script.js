@@ -158,6 +158,57 @@ if (container) {
   container.parentNode.insertBefore(toggleEl, container.nextSibling);
 }
 
+// Feature group for GPX summit markers
+const gpxSummits = L.featureGroup().addTo(map);
+
+// Load GPX file
+fetch("wainwright-summits-cleaned.gpx")
+  .then(res => res.text())
+  .then(gpxText => {
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(gpxText, "text/xml");
+
+    const waypoints = xml.getElementsByTagName("wpt");
+
+    Array.from(waypoints).forEach(wpt => {
+      const lat = parseFloat(wpt.getAttribute("lat"));
+      const lon = parseFloat(wpt.getAttribute("lon"));
+
+      const nameEl = wpt.getElementsByTagName("name")[0];
+      const descEl = wpt.getElementsByTagName("desc")[0];
+      const extColorEl = wpt.getElementsByTagName("color")[0];
+
+      const name = nameEl ? nameEl.textContent : "Unnamed summit";
+      const desc = descEl ? descEl.textContent : "";
+
+      // Colour found in the GPX <color> tag (example: "#FF3C8C3C")
+      let color = extColorEl ? extColorEl.textContent.trim() : "#ff4d4d";
+
+      // Strip alpha if present (#AARRGGBB → #RRGGBB)
+      if (color.length === 9) {
+        color = "#" + color.slice(3);
+      }
+
+      // Add circle marker with GPX colour
+      L.circleMarker([lat, lon], {
+        radius: 6,
+        fillColor: color,
+        color: "#000",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.9
+      })
+      .bindPopup(`<strong>${name}</strong><br>${desc}`)
+      .addTo(gpxSummits);
+    });
+
+    // Optional: fit to bounds
+    // map.fitBounds(gpxSummits.getBounds());
+  })
+  .catch(err => console.error("Error loading GPX:", err));
+
+
+  
 // Load GeoJSON and update stats
 fetch('wainwrights-list.geojson')
   .then(res => res.json())
@@ -202,9 +253,6 @@ fetch('wainwrights-list.geojson')
     console.error('Error loading GeoJSON:', err);
     statsControl.update({ total: 0, completed: 0, percentCompleted: 0, avgHeight: 0 });
   });
-
-
-
 
 
 

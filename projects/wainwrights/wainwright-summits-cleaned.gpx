@@ -1,0 +1,1673 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="CoMaps" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 https://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+<ns0:metadata>
+<ns0:name>Wainwrights</ns0:name>
+<ns0:desc>Map of my Wainwrights</ns0:desc>
+</ns0:metadata>
+<ns0:wpt lat="54.46637" lon="-3.17918">
+<ns0:name>Allen Crags</ns0:name>
+<ns0:desc>Allen Crags UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY236085 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.46637 ; Lon:-3.17918POI Name: 0785.HDownloaded from www.haroldstreet.org.uk | 785m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.52531" lon="-2.908">
+<ns0:name>Angletarn Pikes (Angletarn Pikes North Top)</ns0:name>
+<ns0:desc>Angletarn Pikes (Angletarn Pikes North Top) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY413148 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.52531 ; Lon:-2.90800POI Name: 0566.wDownloaded from www.haroldstreet.org.uk | 566m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.56694" lon="-3.22812">
+<ns0:name>Ard Crags</ns0:name>
+<ns0:desc>Ard Crags UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY206197 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.56694 ; Lon:-3.22812POI Name: 0581.wDownloaded from www.haroldstreet.org.uk | 581m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.53203" lon="-3.0897">
+<ns0:name>Armboth Fell</ns0:name>
+<ns0:desc>Armboth Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY295157 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.53203 ; Lon:-3.08970POI Name: 0475.wDownloaded from www.haroldstreet.org.uk | 475m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.52636" lon="-2.93852">
+<ns0:name>Arnison Crag</ns0:name>
+<ns0:desc>Arnison Crag UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY393149 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.52636 ; Lon:-2.93852POI Name: 0433.wDownloaded from www.haroldstreet.org.uk | 433m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.57843" lon="-2.8358">
+<ns0:name>Arthur's Pike</ns0:name>
+<ns0:desc>Arthur's Pike UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY460206 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.57843 ; Lon:-2.83580POI Name: 0533.wDownloaded from www.haroldstreet.org.uk | 533m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.66638" lon="-3.13907">
+<ns0:name>Bakestall</ns0:name>
+<ns0:desc>Bakestall UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY266307 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4N,OL4S)Lat: 54.66638 ; Lon:-3.13907POI Name: 0674.wDownloaded from www.haroldstreet.org.uk | 674m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.65195" lon="-3.03173">
+<ns0:name>Bannerdale Crags</ns0:name>
+<ns0:desc>Bannerdale Crags UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY335290 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.65195 ; Lon:-3.03173POI Name: 0684.HDownloaded from www.haroldstreet.org.uk | 684m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.62967" lon="-3.21808">
+<ns0:name>Barf</ns0:name>
+<ns0:desc>Barf UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY214267 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.62967 ; Lon:-3.21808POI Name: 0469.wDownloaded from www.haroldstreet.org.uk | 469m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.58566" lon="-3.19752">
+<ns0:name>Barrow</ns0:name>
+<ns0:desc>Barrow UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY227218 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.58566 ; Lon:-3.19752POI Name: 0455.wDownloaded from www.haroldstreet.org.uk | 455m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.49258" lon="-3.19776">
+<ns0:name>Base Brown</ns0:name>
+<ns0:desc>Base Brown UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY225114 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.49258 ; Lon:-3.19776POI Name: 0646.HDownloaded from www.haroldstreet.org.uk | 646m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.43819" lon="-2.92175">
+<ns0:name>Baystones (Wansfell)</ns0:name>
+<ns0:desc>Baystones (Wansfell) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY403051 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.43819 ; Lon:-2.92175POI Name: 0487.wDownloaded from www.haroldstreet.org.uk | 487m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.54649" lon="-2.8844">
+<ns0:name>Beda Fell (Beda Head)</ns0:name>
+<ns0:desc>Beda Fell (Beda Head) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY428171 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.54649 ; Lon:-2.88440POI Name: 0509.wDownloaded from www.haroldstreet.org.uk | 509m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.7088" lon="-3.20417">
+<ns0:name>Binsey</ns0:name>
+<ns0:desc>Binsey UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY225355 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4N)Lat: 54.70880 ; Lon:-3.20417POI Name: 0447.WDownloaded from www.haroldstreet.org.uk | 447m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.53503" lon="-2.98532">
+<ns0:name>Birkhouse Moor</ns0:name>
+<ns0:desc>Birkhouse Moor UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY363159 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.53503 ; Lon:-2.98532POI Name: 0718.NDownloaded from www.haroldstreet.org.uk | 718m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.52071" lon="-2.95905">
+<ns0:name>Birks</ns0:name>
+<ns0:desc>Birks UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY380143 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.52071 ; Lon:-2.95905POI Name: 0624.NDownloaded from www.haroldstreet.org.uk | 624m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.4055" lon="-3.01796">
+<ns0:name>Black Fell</ns0:name>
+<ns0:desc>Black Fell UK Area: 34D - Southern CumbriaOS Grid Ref: NY340015 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.40550 ; Lon:-3.01796POI Name: 0323.wDownloaded from www.haroldstreet.org.uk | 323m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.56456" lon="-3.3772">
+<ns0:name>Blake Fell</ns0:name>
+<ns0:desc>Blake Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY110196 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,303)Lat: 54.56456 ; Lon:-3.37720POI Name: 0573.WDownloaded from www.haroldstreet.org.uk | 573m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.46108" lon="-3.07882">
+<ns0:name>Blea Rigg</ns0:name>
+<ns0:desc>Blea Rigg UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY301078 (click for full map)OS Maps: 1:50(90) 1:25(OL6N,OL7N)Lat: 54.46108 ; Lon:-3.07882POI Name: 0542.wDownloaded from www.haroldstreet.org.uk | 542m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.56637" lon="-3.10618">
+<ns0:name>Bleaberry Fell</ns0:name>
+<ns0:desc>Bleaberry Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY285195 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.56637 ; Lon:-3.10618POI Name: 0590.wDownloaded from www.haroldstreet.org.uk | 590m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.63995" lon="-3.04979">
+<ns0:name>Blencathra-Hallsfell Top</ns0:name>
+<ns0:desc>Blencathra-Hallsfell Top UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY323277 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.63995 ; Lon:-3.04979POI Name: 0868.HDownloaded from www.haroldstreet.org.uk | 868m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.57303" lon="-2.84694">
+<ns0:name>Bonscale Pike</ns0:name>
+<ns0:desc>Bonscale Pike UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY453200 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.57303 ; Lon:-2.84694POI Name: 0524.wDownloaded from www.haroldstreet.org.uk | 524m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.44782" lon="-3.16624">
+<ns0:name>Bowfell</ns0:name>
+<ns0:desc>Bowfell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY244064 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.44782 ; Lon:-3.16624POI Name: 0903.HDownloaded from www.haroldstreet.org.uk | 903m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.66554" lon="-3.03504">
+<ns0:name>Bowscale Fell</ns0:name>
+<ns0:desc>Bowscale Fell UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY333305 (click for full map)OS Maps: 1:50(90) 1:25(OL5N,OL5S)Lat: 54.66554 ; Lon:-3.03504POI Name: 0702.HDownloaded from www.haroldstreet.org.uk | 702m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.70642" lon="-3.10536">
+<ns0:name>Brae Fell</ns0:name>
+<ns0:desc>Brae Fell UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY288351 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4N)Lat: 54.70642 ; Lon:-3.10536POI Name: 0586.wDownloaded from www.haroldstreet.org.uk | 586m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.49648" lon="-3.21427">
+<ns0:name>Brandreth</ns0:name>
+<ns0:desc>Brandreth UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY214119 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.49648 ; Lon:-3.21427POI Name: 0715.HDownloaded from www.haroldstreet.org.uk | 715m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48267" lon="-2.80758">
+<ns0:name>Branstree</ns0:name>
+<ns0:desc>Branstree UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY477100 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.48267 ; Lon:-2.80758POI Name: 0712.HDownloaded from www.haroldstreet.org.uk | 712m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.37728" lon="-3.1242">
+<ns0:name>Brim Fell</ns0:name>
+<ns0:desc>Brim Fell UK Area: 34D - Southern CumbriaOS Grid Ref: SD270985 (click for full map)OS Maps: 1:50(96,97) 1:25(OL6N)Lat: 54.37728 ; Lon:-3.12420POI Name: 0796.NDownloaded from www.haroldstreet.org.uk | 796m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.51489" lon="-2.90259">
+<ns0:name>Brock Crags (Wainwright)</ns0:name>
+<ns0:desc>Brock Crags (Wainwright) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY416136 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.51489 ; Lon:-2.90259POI Name: 0561.wDownloaded from www.haroldstreet.org.uk | 561m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.63217" lon="-3.2479">
+<ns0:name>Broom Fell</ns0:name>
+<ns0:desc>Broom Fell UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY195270 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.63217 ; Lon:-3.24790POI Name: 0510.wDownloaded from www.haroldstreet.org.uk | 510m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.44317" lon="-3.33428">
+<ns0:name>Buckbarrow</ns0:name>
+<ns0:desc>Buckbarrow UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY135061 (click for full map)OS Maps: 1:50(89) 1:25(OL6N,303)Lat: 54.44317 ; Lon:-3.33428POI Name: 0423.wDownloaded from www.haroldstreet.org.uk | 423m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.57594" lon="-3.37834">
+<ns0:name>Burnbank Fell</ns0:name>
+<ns0:desc>Burnbank Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY110209 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,303)Lat: 54.57594 ; Lon:-3.37834POI Name: 0475.wDownloaded from www.haroldstreet.org.uk | 475m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48423" lon="-3.07949">
+<ns0:name>Calf Crag</ns0:name>
+<ns0:desc>Calf Crag UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY301104 (click for full map)OS Maps: 1:50(90) 1:25(OL4S,OL5S,OL6N,OL7N)Lat: 54.48423 ; Lon:-3.07949POI Name: 0537.wDownloaded from www.haroldstreet.org.uk | 537m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.6424" lon="-3.15598">
+<ns0:name>Carl Side</ns0:name>
+<ns0:desc>Carl Side UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY254280 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.64240 ; Lon:-3.15598POI Name: 0747.NDownloaded from www.haroldstreet.org.uk | 747m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.69348" lon="-3.02287">
+<ns0:name>Carrock Fell</ns0:name>
+<ns0:desc>Carrock Fell UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY341336 (click for full map)OS Maps: 1:50(90) 1:25(OL5N)Lat: 54.69348 ; Lon:-3.02287POI Name: 0662.HDownloaded from www.haroldstreet.org.uk | 662m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.53318" lon="-3.16161">
+<ns0:name>Castle Crag</ns0:name>
+<ns0:desc>Castle Crag UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY249159 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.53318 ; Lon:-3.16161POI Name: 0290.wDownloaded from www.haroldstreet.org.uk | 290m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.56832" lon="-3.1707">
+<ns0:name>Cat Bells (Catbells)</ns0:name>
+<ns0:desc>Cat Bells (Catbells) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY244198 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.56832 ; Lon:-3.17070POI Name: 0451.wDownloaded from www.haroldstreet.org.uk | 451m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.53347" lon="-3.00894">
+<ns0:name>Catstye Cam</ns0:name>
+<ns0:desc>Catstye Cam UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY348158 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.53347 ; Lon:-3.00894POI Name: 0890.HDownloaded from www.haroldstreet.org.uk | 890m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.57682" lon="-3.21013">
+<ns0:name>Causey Pike</ns0:name>
+<ns0:desc>Causey Pike UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY218208 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.57682 ; Lon:-3.21013POI Name: 0637.HDownloaded from www.haroldstreet.org.uk | 637m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48687" lon="-3.34126">
+<ns0:name>Caw Fell</ns0:name>
+<ns0:desc>Caw Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY132109 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,303)Lat: 54.48687 ; Lon:-3.34126POI Name: 0697.NDownloaded from www.haroldstreet.org.uk | 697m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.59366" lon="-3.03236">
+<ns0:name>Clough Head</ns0:name>
+<ns0:desc>Clough Head UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY333225 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.59366 ; Lon:-3.03236POI Name: 0726.HDownloaded from www.haroldstreet.org.uk | 726m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.4226" lon="-3.13758">
+<ns0:name>Cold Pike</ns0:name>
+<ns0:desc>Cold Pike UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY262036 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.42260 ; Lon:-3.13758POI Name: 0700.HDownloaded from www.haroldstreet.org.uk | 700m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.51672" lon="-3.39607">
+<ns0:name>Crag Fell</ns0:name>
+<ns0:desc>Crag Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY097143 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,303)Lat: 54.51672 ; Lon:-3.39607POI Name: 0523.wDownloaded from www.haroldstreet.org.uk | 523m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.57176" lon="-3.25023">
+<ns0:name>Crag Hill (Eel Crag)</ns0:name>
+<ns0:desc>Crag Hill (Eel Crag) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY192203 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.57176 ; Lon:-3.25023POI Name: 0839.HDownloaded from www.haroldstreet.org.uk | 839m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.4337" lon="-3.15981">
+<ns0:name>Crinkle Crags-Long Top (Second Crinkle)</ns0:name>
+<ns0:desc>Crinkle Crags-Long Top (Second Crinkle) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY248048 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.43370 ; Lon:-3.15981POI Name: 0859.HDownloaded from www.haroldstreet.org.uk | 859m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.52724" lon="-3.20228">
+<ns0:name>Dale Head</ns0:name>
+<ns0:desc>Dale Head UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY222153 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.52724 ; Lon:-3.20228POI Name: 0754.HDownloaded from www.haroldstreet.org.uk | 754m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.63561" lon="-3.17212">
+<ns0:name>Dodd (Skiddaw)</ns0:name>
+<ns0:desc>Dodd (Skiddaw) UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY244273 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.63561 ; Lon:-3.17212POI Name: 0502.wDownloaded from www.haroldstreet.org.uk | 502m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.50869" lon="-3.01118">
+<ns0:name>Dollywaggon Pike</ns0:name>
+<ns0:desc>Dollywaggon Pike UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY346130 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.50869 ; Lon:-3.01118POI Name: 0859.HDownloaded from www.haroldstreet.org.uk | 859m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.4854" lon="-2.96693">
+<ns0:name>Dove Crag</ns0:name>
+<ns0:desc>Dove Crag UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY374104 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.48540 ; Lon:-2.96693POI Name: 0792.HDownloaded from www.haroldstreet.org.uk | 792m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.3703" lon="-3.13666">
+<ns0:name>Dow Crag</ns0:name>
+<ns0:desc>Dow Crag UK Area: 34D - Southern CumbriaOS Grid Ref: SD262977 (click for full map)OS Maps: 1:50(96,97) 1:25(OL6N)Lat: 54.37030 ; Lon:-3.13666POI Name: 0778.HDownloaded from www.haroldstreet.org.uk | 778m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.49906" lon="-3.12048">
+<ns0:name>Eagle Crag</ns0:name>
+<ns0:desc>Eagle Crag UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY275121 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.49906 ; Lon:-3.12048POI Name: 0523.wDownloaded from www.haroldstreet.org.uk | 523m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.45717" lon="-3.17922">
+<ns0:name>Esk Pike</ns0:name>
+<ns0:desc>Esk Pike UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY236075 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.45717 ; Lon:-3.17922POI Name: 0885.HDownloaded from www.haroldstreet.org.uk | 885m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.49705" lon="-2.99165">
+<ns0:name>Fairfield</ns0:name>
+<ns0:desc>Fairfield UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY358117 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.49705 ; Lon:-2.99165POI Name: 0873.HDownloaded from www.haroldstreet.org.uk | 873m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.60582" lon="-3.3447">
+<ns0:name>Fellbarrow-Mosser Fell</ns0:name>
+<ns0:desc>Fellbarrow-Mosser Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY132242 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,303)Lat: 54.60582 ; Lon:-3.34470POI Name: 0416.wDownloaded from www.haroldstreet.org.uk | 416m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.51656" lon="-3.22818">
+<ns0:name>Fleetwith Pike</ns0:name>
+<ns0:desc>Fleetwith Pike UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY205141 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.51656 ; Lon:-3.22818POI Name: 0649.HDownloaded from www.haroldstreet.org.uk | 649m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.46895" lon="-2.87297">
+<ns0:name>Froswick</ns0:name>
+<ns0:desc>Froswick UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY435085 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.46895 ; Lon:-2.87297POI Name: 0720.HDownloaded from www.haroldstreet.org.uk | 720m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.55401" lon="-3.36747">
+<ns0:name>Gavel Fell</ns0:name>
+<ns0:desc>Gavel Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY116185 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,303)Lat: 54.55401 ; Lon:-3.36747POI Name: 0524.wDownloaded from www.haroldstreet.org.uk | 524m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48107" lon="-3.05583">
+<ns0:name>Gibson Knott</ns0:name>
+<ns0:desc>Gibson Knott UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY316100 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.48107 ; Lon:-3.05583POI Name: 0420.wDownloaded from www.haroldstreet.org.uk | 420m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.48384" lon="-3.16534">
+<ns0:name>Glaramara</ns0:name>
+<ns0:desc>Glaramara UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY245104 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S,OL6N)Lat: 54.48384 ; Lon:-3.16534POI Name: 0783.HDownloaded from www.haroldstreet.org.uk | 783m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.54947" lon="-2.95925">
+<ns0:name>Glenridding Dodd</ns0:name>
+<ns0:desc>Glenridding Dodd UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY380175 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.54947 ; Lon:-2.95925POI Name: 0442.wDownloaded from www.haroldstreet.org.uk | 442m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.58811" lon="-2.9182">
+<ns0:name>Gowbarrow Fell (Wainwright summit)</ns0:name>
+<ns0:desc>Gowbarrow Fell (Wainwright summit) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY407218 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.58811 ; Lon:-2.91820POI Name: 0481.wDownloaded from www.haroldstreet.org.uk | 481m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.53641" lon="-3.13796">
+<ns0:name>Grange Fell (Brund Fell)</ns0:name>
+<ns0:desc>Grange Fell (Brund Fell) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY264162 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.53641 ; Lon:-3.13796POI Name: 0417.wDownloaded from www.haroldstreet.org.uk | 417m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.57164" lon="-3.27791">
+<ns0:name>Grasmoor</ns0:name>
+<ns0:desc>Grasmoor UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY174203 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.57164 ; Lon:-3.27791POI Name: 0852.HDownloaded from www.haroldstreet.org.uk | 852m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.49746" lon="-2.88536">
+<ns0:name>Gray Crag</ns0:name>
+<ns0:desc>Gray Crag UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY427117 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.49746 ; Lon:-2.88536POI Name: 0698.WDownloaded from www.haroldstreet.org.uk | 698m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.62799" lon="-3.27764">
+<ns0:name>Graystones</ns0:name>
+<ns0:desc>Graystones UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY176266 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.62799 ; Lon:-3.27764POI Name: 0450.wDownloaded from www.haroldstreet.org.uk | 450m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.5349" lon="-3.35544">
+<ns0:name>Great Borne</ns0:name>
+<ns0:desc>Great Borne UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY123163 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,303)Lat: 54.53490 ; Lon:-3.35544POI Name: 0616.HDownloaded from www.haroldstreet.org.uk | 616m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.67077" lon="-3.10107">
+<ns0:name>Great Calva</ns0:name>
+<ns0:desc>Great Calva UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY290311 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4N)Lat: 54.67077 ; Lon:-3.10107POI Name: 0691.HDownloaded from www.haroldstreet.org.uk | 691m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.39878" lon="-3.12474">
+<ns0:name>Great Carrs</ns0:name>
+<ns0:desc>Great Carrs UK Area: 34D - Southern CumbriaOS Grid Ref: NY270009 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.39878 ; Lon:-3.12474POI Name: 0785.NDownloaded from www.haroldstreet.org.uk | 785m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.68968" lon="-3.12877">
+<ns0:name>Great Cockup</ns0:name>
+<ns0:desc>Great Cockup UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY273333 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4N)Lat: 54.68968 ; Lon:-3.12877POI Name: 0526.wDownloaded from www.haroldstreet.org.uk | 526m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.52219" lon="-3.12933">
+<ns0:name>Great Crag (Stonethwaite)</ns0:name>
+<ns0:desc>Great Crag (Stonethwaite) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY270146 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.52219 ; Lon:-3.12933POI Name: 0449.wDownloaded from www.haroldstreet.org.uk | 449m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.57569" lon="-3.01938">
+<ns0:name>Great Dodd</ns0:name>
+<ns0:desc>Great Dodd UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY342205 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.57569 ; Lon:-3.01938POI Name: 0857.HDownloaded from www.haroldstreet.org.uk | 857m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.46494" lon="-3.19455">
+<ns0:name>Great End</ns0:name>
+<ns0:desc>Great End UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY226083 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.46494 ; Lon:-3.19455POI Name: 0910.HDownloaded from www.haroldstreet.org.uk | 910m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48208" lon="-3.2193">
+<ns0:name>Great Gable</ns0:name>
+<ns0:desc>Great Gable UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY211103 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S,OL6N)Lat: 54.48208 ; Lon:-3.21930POI Name: 0899.HDownloaded from www.haroldstreet.org.uk | 899m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.61985" lon="-2.93564">
+<ns0:name>Great Mell Fell</ns0:name>
+<ns0:desc>Great Mell Fell UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY396253 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.61985 ; Lon:-2.93564POI Name: 0537.WDownloaded from www.haroldstreet.org.uk | 537m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48491" lon="-2.99569">
+<ns0:name>Great Rigg</ns0:name>
+<ns0:desc>Great Rigg UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY355104 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.48491 ; Lon:-2.99569POI Name: 0766.HDownloaded from www.haroldstreet.org.uk | 766m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.69515" lon="-3.10099">
+<ns0:name>Great Sca Fell</ns0:name>
+<ns0:desc>Great Sca Fell UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY291339 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4N)Lat: 54.69515 ; Lon:-3.10099POI Name: 0651.WDownloaded from www.haroldstreet.org.uk | 651m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.3737" lon="-3.2328">
+<ns0:name>Green Crag</ns0:name>
+<ns0:desc>Green Crag UK Area: 34D - Southern CumbriaOS Grid Ref: SD200982 (click for full map)OS Maps: 1:50(96) 1:25(OL6N)Lat: 54.37370 ; Lon:-3.23280POI Name: 0489.wDownloaded from www.haroldstreet.org.uk | 489m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.4857" lon="-3.21377">
+<ns0:name>Green Gable</ns0:name>
+<ns0:desc>Green Gable UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY214107 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S,OL6N)Lat: 54.48570 ; Lon:-3.21377POI Name: 0800.HDownloaded from www.haroldstreet.org.uk | 800m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.45787" lon="-2.77719">
+<ns0:name>Grey Crag (Sleddale Fell)</ns0:name>
+<ns0:desc>Grey Crag (Sleddale Fell) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY497072 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.45787 ; Lon:-2.77719POI Name: 0638.HDownloaded from www.haroldstreet.org.uk | 638m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.39334" lon="-3.14105">
+<ns0:name>Grey Friar</ns0:name>
+<ns0:desc>Grey Friar UK Area: 34D - Southern CumbriaOS Grid Ref: NY260003 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.39334 ; Lon:-3.14105POI Name: 0773.HDownloaded from www.haroldstreet.org.uk | 773m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.50236" lon="-3.21019">
+<ns0:name>Grey Knotts</ns0:name>
+<ns0:desc>Grey Knotts UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY217125 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.50236 ; Lon:-3.21019POI Name: 0697.NDownloaded from www.haroldstreet.org.uk | 697m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.51377" lon="-3.41488">
+<ns0:name>Grike</ns0:name>
+<ns0:desc>Grike UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY084140 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,303)Lat: 54.51377 ; Lon:-3.41488POI Name: 0488.wDownloaded from www.haroldstreet.org.uk | 488m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.59175" lon="-3.24207">
+<ns0:name>Grisedale Pike</ns0:name>
+<ns0:desc>Grisedale Pike UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY198225 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.59175 ; Lon:-3.24207POI Name: 0790.HDownloaded from www.haroldstreet.org.uk | 790m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.57041" lon="-2.8785">
+<ns0:name>Hallin Fell</ns0:name>
+<ns0:desc>Hallin Fell UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY433198 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.57041 ; Lon:-2.87850POI Name: 0388.WDownloaded from www.haroldstreet.org.uk | 388m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.41103" lon="-3.18503">
+<ns0:name>Hard Knott</ns0:name>
+<ns0:desc>Hard Knott UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY231023 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.41103 ; Lon:-3.18503POI Name: 0550.WDownloaded from www.haroldstreet.org.uk | 550m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.4569" lon="-3.10946">
+<ns0:name>Harrison Stickle</ns0:name>
+<ns0:desc>Harrison Stickle UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY281074 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.45690 ; Lon:-3.10946POI Name: 0735.HDownloaded from www.haroldstreet.org.uk | 735m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.49275" lon="-2.97695">
+<ns0:name>Hart Crag</ns0:name>
+<ns0:desc>Hart Crag UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY368112 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.49275 ; Lon:-2.97695POI Name: 0823.HDownloaded from www.haroldstreet.org.uk | 823m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.56872" lon="-2.99294">
+<ns0:name>Hart Side</ns0:name>
+<ns0:desc>Hart Side UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY359197 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.56872 ; Lon:-2.99294POI Name: 0756.NDownloaded from www.haroldstreet.org.uk | 756m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.38692" lon="-3.20452">
+<ns0:name>Harter Fell (Eskdale)</ns0:name>
+<ns0:desc>Harter Fell (Eskdale) UK Area: 34D - Southern CumbriaOS Grid Ref: SD218997 (click for full map)OS Maps: 1:50(96) 1:25(OL6N)Lat: 54.38692 ; Lon:-3.20452POI Name: 0653.HDownloaded from www.haroldstreet.org.uk | 653m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.47641" lon="-2.83532">
+<ns0:name>Harter Fell (Mardale)</ns0:name>
+<ns0:desc>Harter Fell (Mardale) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY459093 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.47641 ; Lon:-2.83532POI Name: 0779.HDownloaded from www.haroldstreet.org.uk | 779m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.4996" lon="-2.95396">
+<ns0:name>Hartsop Above How (Gill Crag-Hartsop Above How)</ns0:name>
+<ns0:desc>Hartsop Above How (Gill Crag-Hartsop Above How) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY383120 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.49960 ; Lon:-2.95396POI Name: 0586.wDownloaded from www.haroldstreet.org.uk | 586m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.49854" lon="-2.91045">
+<ns0:name>Hartsop Dodd</ns0:name>
+<ns0:desc>Hartsop Dodd UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY411118 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.49854 ; Lon:-2.91045POI Name: 0619.NDownloaded from www.haroldstreet.org.uk | 619m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48457" lon="-3.32158">
+<ns0:name>Haycock</ns0:name>
+<ns0:desc>Haycock UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY144107 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,OL6N)Lat: 54.48457 ; Lon:-3.32158POI Name: 0797.HDownloaded from www.haroldstreet.org.uk | 797m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.50724" lon="-3.24732">
+<ns0:name>Haystacks (Buttermere)</ns0:name>
+<ns0:desc>Haystacks (Buttermere) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY193131 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.50724 ; Lon:-3.24732POI Name: 0597.wDownloaded from www.haroldstreet.org.uk | 597m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.47503" lon="-3.04082">
+<ns0:name>Helm Crag</ns0:name>
+<ns0:desc>Helm Crag UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY326093 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.47503 ; Lon:-3.04082POI Name: 0405.wDownloaded from www.haroldstreet.org.uk | 405m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.527" lon="-3.01751">
+<ns0:name>Helvellyn</ns0:name>
+<ns0:desc>Helvellyn UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY342151 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.52700 ; Lon:-3.01751POI Name: 0950.HDownloaded from www.haroldstreet.org.uk | 950m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.55085" lon="-3.34326">
+<ns0:name>Hen Comb</ns0:name>
+<ns0:desc>Hen Comb UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY132181 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,303)Lat: 54.55085 ; Lon:-3.34326POI Name: 0506.wDownloaded from www.haroldstreet.org.uk | 506m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.46607" lon="-2.99514">
+<ns0:name>Heron Pike (Rydal)</ns0:name>
+<ns0:desc>Heron Pike (Rydal) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY355083 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.46607 ; Lon:-2.99514POI Name: 0612.nDownloaded from www.haroldstreet.org.uk | 612m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.51463" lon="-3.26741">
+<ns0:name>High Crag (Buttermere)</ns0:name>
+<ns0:desc>High Crag (Buttermere) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY180139 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.51463 ; Lon:-3.26741POI Name: 0745.HDownloaded from www.haroldstreet.org.uk | 745m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48862" lon="-2.93768">
+<ns0:name>High Hartsop Dodd</ns0:name>
+<ns0:desc>High Hartsop Dodd UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY393107 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.48862 ; Lon:-2.93768POI Name: 0519.wDownloaded from www.haroldstreet.org.uk | 519m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.70542" lon="-3.05874">
+<ns0:name>High Pike (Caldbeck)</ns0:name>
+<ns0:desc>High Pike (Caldbeck) UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY318350 (click for full map)OS Maps: 1:50(90) 1:25(OL5N)Lat: 54.70542 ; Lon:-3.05874POI Name: 0658.HDownloaded from www.haroldstreet.org.uk | 658m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.47098" lon="-2.96679">
+<ns0:name>High Pike (Scandale)</ns0:name>
+<ns0:desc>High Pike (Scandale) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY374088 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.47098 ; Lon:-2.96679POI Name: 0657.wDownloaded from www.haroldstreet.org.uk | 657m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.51337" lon="-2.85378">
+<ns0:name>High Raise (High Street)</ns0:name>
+<ns0:desc>High Raise (High Street) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY448134 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.51337 ; Lon:-2.85378POI Name: 0804.HDownloaded from www.haroldstreet.org.uk | 804m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.47596" lon="-3.11127">
+<ns0:name>High Raise (High White Stones)</ns0:name>
+<ns0:desc>High Raise (High White Stones) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY280095 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S,OL6N)Lat: 54.47596 ; Lon:-3.11127POI Name: 0763.HDownloaded from www.haroldstreet.org.uk | 763m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.58843" lon="-3.07157">
+<ns0:name>High Rigg (Naddle Fell)</ns0:name>
+<ns0:desc>High Rigg (Naddle Fell) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY308219 (click for full map)OS Maps: 1:50(90) 1:25(OL4S,OL5S)Lat: 54.58843 ; Lon:-3.07157POI Name: 0356.WDownloaded from www.haroldstreet.org.uk | 356m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.55262" lon="-3.10376">
+<ns0:name>High Seat</ns0:name>
+<ns0:desc>High Seat UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY287180 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.55262 ; Lon:-3.10376POI Name: 0609.WDownloaded from www.haroldstreet.org.uk | 609m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.53557" lon="-3.18514">
+<ns0:name>High Spy</ns0:name>
+<ns0:desc>High Spy UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY234162 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.53557 ; Lon:-3.18514POI Name: 0653.HDownloaded from www.haroldstreet.org.uk | 653m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.52158" lon="-3.28767">
+<ns0:name>High Stile</ns0:name>
+<ns0:desc>High Stile UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY167147 (click for full map)OS Maps: 1:50(89) 1:25(OL4S)Lat: 54.52158 ; Lon:-3.28767POI Name: 0806.WDownloaded from www.haroldstreet.org.uk | 806m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.4923" lon="-2.86388">
+<ns0:name>High Street</ns0:name>
+<ns0:desc>High Street UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY441111 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.49230 ; Lon:-2.86388POI Name: 0829.HDownloaded from www.haroldstreet.org.uk | 829m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.53886" lon="-3.10021">
+<ns0:name>High Tove</ns0:name>
+<ns0:desc>High Tove UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY289165 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.53886 ; Lon:-3.10021POI Name: 0515.wDownloaded from www.haroldstreet.org.uk | 515m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.53783" lon="-3.21376">
+<ns0:name>Hindscarth</ns0:name>
+<ns0:desc>Hindscarth UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY215165 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.53783 ; Lon:-3.21376POI Name: 0727.HDownloaded from www.haroldstreet.org.uk | 727m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.3963" lon="-3.05653">
+<ns0:name>Holme Fell</ns0:name>
+<ns0:desc>Holme Fell UK Area: 34D - Southern CumbriaOS Grid Ref: NY315006 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.39630 ; Lon:-3.05653POI Name: 0316.WDownloaded from www.haroldstreet.org.uk | 316m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.58808" lon="-3.26168">
+<ns0:name>Hopegill Head</ns0:name>
+<ns0:desc>Hopegill Head UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY185221 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.58808 ; Lon:-3.26168POI Name: 0770.HDownloaded from www.haroldstreet.org.uk | 770m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.46202" lon="-2.87084">
+<ns0:name>Ill Bell</ns0:name>
+<ns0:desc>Ill Bell UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY436077 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.46202 ; Lon:-2.87084POI Name: 0757.HDownloaded from www.haroldstreet.org.uk | 757m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.43293" lon="-3.28263">
+<ns0:name>Illgill Head</ns0:name>
+<ns0:desc>Illgill Head UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY168049 (click for full map)OS Maps: 1:50(89) 1:25(OL6N)Lat: 54.43293 ; Lon:-3.28263POI Name: 0609.WDownloaded from www.haroldstreet.org.uk | 609m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.46268" lon="-2.82603">
+<ns0:name>Kentmere Pike</ns0:name>
+<ns0:desc>Kentmere Pike UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY465077 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.46268 ; Lon:-2.82603POI Name: 0731.HDownloaded from www.haroldstreet.org.uk | 731m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.50551" lon="-2.85496">
+<ns0:name>Kidsty Pike</ns0:name>
+<ns0:desc>Kidsty Pike UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY447125 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.50551 ; Lon:-2.85496POI Name: 0781.NDownloaded from www.haroldstreet.org.uk | 781m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.48332" lon="-3.24412">
+<ns0:name>Kirk Fell</ns0:name>
+<ns0:desc>Kirk Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY194104 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S,OL6N)Lat: 54.48332 ; Lon:-3.24412POI Name: 0802.HDownloaded from www.haroldstreet.org.uk | 802m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.68698" lon="-3.09332">
+<ns0:name>Knott</ns0:name>
+<ns0:desc>Knott UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY296329 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4N)Lat: 54.68698 ; Lon:-3.09332POI Name: 0710.HDownloaded from www.haroldstreet.org.uk | 710m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.5587" lon="-3.24261">
+<ns0:name>Knott Rigg</ns0:name>
+<ns0:desc>Knott Rigg UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY197188 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.55870 ; Lon:-3.24261POI Name: 0556.wDownloaded from www.haroldstreet.org.uk | 556m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.49481" lon="-3.40397">
+<ns0:name>Lank Rigg</ns0:name>
+<ns0:desc>Lank Rigg UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY091119 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,303)Lat: 54.49481 ; Lon:-3.40397POI Name: 0541.wDownloaded from www.haroldstreet.org.uk | 541m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.61244" lon="-3.11785">
+<ns0:name>Latrigg</ns0:name>
+<ns0:desc>Latrigg UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY279247 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.61244 ; Lon:-3.11785POI Name: 0369.wDownloaded from www.haroldstreet.org.uk | 369m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.64525" lon="-3.27233">
+<ns0:name>Ling Fell</ns0:name>
+<ns0:desc>Ling Fell UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY179285 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.64525 ; Lon:-3.27233POI Name: 0374.wDownloaded from www.haroldstreet.org.uk | 374m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.46279" lon="-3.22132">
+<ns0:name>Lingmell</ns0:name>
+<ns0:desc>Lingmell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY209081 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.46279 ; Lon:-3.22132POI Name: 0807.HDownloaded from www.haroldstreet.org.uk | 807m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.43207" lon="-3.07641">
+<ns0:name>Lingmoor Fell (Brown How)</ns0:name>
+<ns0:desc>Lingmoor Fell (Brown How) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY302046 (click for full map)OS Maps: 1:50(90) 1:25(OL6N,OL7N)Lat: 54.43207 ; Lon:-3.07641POI Name: 0470.WDownloaded from www.haroldstreet.org.uk | 470m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48192" lon="-2.94717">
+<ns0:name>Little Hart Crag (Little Hart Crag-West Top)</ns0:name>
+<ns0:desc>Little Hart Crag (Little Hart Crag-West Top) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY387100 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.48192 ; Lon:-2.94717POI Name: 0637.HDownloaded from www.haroldstreet.org.uk | 637m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.60802" lon="-2.89447">
+<ns0:name>Little Mell Fell</ns0:name>
+<ns0:desc>Little Mell Fell UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY423240 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.60802 ; Lon:-2.89447POI Name: 0505.WDownloaded from www.haroldstreet.org.uk | 505m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.55474" lon="-2.84209">
+<ns0:name>Loadpot Hill</ns0:name>
+<ns0:desc>Loadpot Hill UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY456180 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.55474 ; Lon:-2.84209POI Name: 0672.HDownloaded from www.haroldstreet.org.uk | 672m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.45443" lon="-3.11599">
+<ns0:name>Loft Crag</ns0:name>
+<ns0:desc>Loft Crag UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY277071 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.45443 ; Lon:-3.11599POI Name: 0682.nDownloaded from www.haroldstreet.org.uk | 682m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.64551" lon="-3.16562">
+<ns0:name>Long Side</ns0:name>
+<ns0:desc>Long Side UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY248284 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.64551 ; Lon:-3.16562POI Name: 0734.HDownloaded from www.haroldstreet.org.uk | 734m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.70841" lon="-3.12531">
+<ns0:name>Longlands Fell</ns0:name>
+<ns0:desc>Longlands Fell UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY275354 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4N)Lat: 54.70841 ; Lon:-3.12531POI Name: 0483.wDownloaded from www.haroldstreet.org.uk | 483m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.63436" lon="-3.10852">
+<ns0:name>Lonscale Fell</ns0:name>
+<ns0:desc>Lonscale Fell UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY285271 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.63436 ; Lon:-3.10852POI Name: 0715.HDownloaded from www.haroldstreet.org.uk | 715m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.62782" lon="-3.23398">
+<ns0:name>Lord's Seat</ns0:name>
+<ns0:desc>Lord's Seat UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY204265 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.62782 ; Lon:-3.23398POI Name: 0552.WDownloaded from www.haroldstreet.org.uk | 552m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.43745" lon="-3.00836">
+<ns0:name>Loughrigg Fell</ns0:name>
+<ns0:desc>Loughrigg Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY346051 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.43745 ; Lon:-3.00836POI Name: 0335.WDownloaded from www.haroldstreet.org.uk | 335m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.59136" lon="-3.33661">
+<ns0:name>Low Fell</ns0:name>
+<ns0:desc>Low Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY137226 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,303)Lat: 54.59136 ; Lon:-3.33661POI Name: 0423.WDownloaded from www.haroldstreet.org.uk | 423m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.46206" lon="-2.96799">
+<ns0:name>Low Pike</ns0:name>
+<ns0:desc>Low Pike UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY373078 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.46206 ; Lon:-2.96799POI Name: 0508.wDownloaded from www.haroldstreet.org.uk | 508m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.55317" lon="-3.18159">
+<ns0:name>Maiden Moor</ns0:name>
+<ns0:desc>Maiden Moor UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY236181 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.55317 ; Lon:-3.18159POI Name: 0575.wDownloaded from www.haroldstreet.org.uk | 575m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48342" lon="-2.85411">
+<ns0:name>Mardale Ill Bell</ns0:name>
+<ns0:desc>Mardale Ill Bell UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY447101 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.48342 ; Lon:-2.85411POI Name: 0760.WDownloaded from www.haroldstreet.org.uk | 760m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.6938" lon="-3.11392">
+<ns0:name>Meal Fell</ns0:name>
+<ns0:desc>Meal Fell UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY283337 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4N)Lat: 54.69380 ; Lon:-3.11392POI Name: 0549.wDownloaded from www.haroldstreet.org.uk | 549m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.55558" lon="-3.31826">
+<ns0:name>Mellbreak (Mellbreak South Top)</ns0:name>
+<ns0:desc>Mellbreak (Mellbreak South Top) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY148186 (click for full map)OS Maps: 1:50(89) 1:25(OL4S)Lat: 54.55558 ; Lon:-3.31826POI Name: 0511.WDownloaded from www.haroldstreet.org.uk | 511m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.47794" lon="-2.93157">
+<ns0:name>Middle Dodd</ns0:name>
+<ns0:desc>Middle Dodd UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY397095 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.47794 ; Lon:-2.93157POI Name: 0654.wDownloaded from www.haroldstreet.org.uk | 654m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.45325" lon="-3.31133">
+<ns0:name>Middle Fell</ns0:name>
+<ns0:desc>Middle Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY150072 (click for full map)OS Maps: 1:50(89) 1:25(OL6N)Lat: 54.45325 ; Lon:-3.31133POI Name: 0582.wDownloaded from www.haroldstreet.org.uk | 582m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.65323" lon="-3.06836">
+<ns0:name>Mungrisdale Common</ns0:name>
+<ns0:desc>Mungrisdale Common UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY311292 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.65323 ; Lon:-3.06836POI Name: 0632.wDownloaded from www.haroldstreet.org.uk | 632m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.45641" lon="-2.99585">
+<ns0:name>Nab Scar</ns0:name>
+<ns0:desc>Nab Scar UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY355072 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.45641 ; Lon:-2.99585POI Name: 0450.wDownloaded from www.haroldstreet.org.uk | 450m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.51899" lon="-3.01545">
+<ns0:name>Nethermost Pike</ns0:name>
+<ns0:desc>Nethermost Pike UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY343142 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.51899 ; Lon:-3.01545POI Name: 0891.NDownloaded from www.haroldstreet.org.uk | 891m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.58217" lon="-3.22216">
+<ns0:name>Outerside</ns0:name>
+<ns0:desc>Outerside UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY211214 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.58217 ; Lon:-3.22216POI Name: 0568.wDownloaded from www.haroldstreet.org.uk | 568m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.46149" lon="-3.10521">
+<ns0:name>Pavey Ark</ns0:name>
+<ns0:desc>Pavey Ark UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY284079 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.46149 ; Lon:-3.10521POI Name: 0702.NDownloaded from www.haroldstreet.org.uk | 702m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.4281" lon="-3.12493">
+<ns0:name>Pike of Blisco</ns0:name>
+<ns0:desc>Pike of Blisco UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY271042 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.42810 ; Lon:-3.12493POI Name: 0703.HDownloaded from www.haroldstreet.org.uk | 703m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.45639" lon="-3.12138">
+<ns0:name>Pike of Stickle</ns0:name>
+<ns0:desc>Pike of Stickle UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY273073 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.45639 ; Lon:-3.12138POI Name: 0708.HDownloaded from www.haroldstreet.org.uk | 708m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.49748" lon="-3.28113">
+<ns0:name>Pillar</ns0:name>
+<ns0:desc>Pillar UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY171121 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.49748 ; Lon:-3.28113POI Name: 0892.HDownloaded from www.haroldstreet.org.uk | 892m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.54427" lon="-2.92073">
+<ns0:name>Place Fell</ns0:name>
+<ns0:desc>Place Fell UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY405169 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.54427 ; Lon:-2.92073POI Name: 0657.HDownloaded from www.haroldstreet.org.uk | 657m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.54772" lon="-3.01747">
+<ns0:name>Raise</ns0:name>
+<ns0:desc>Raise UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY342174 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.54772 ; Lon:-3.01747POI Name: 0883.HDownloaded from www.haroldstreet.org.uk | 883m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.50809" lon="-2.86125">
+<ns0:name>Rampsgill Head</ns0:name>
+<ns0:desc>Rampsgill Head UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY443128 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.50809 ; Lon:-2.86125POI Name: 0792.HDownloaded from www.haroldstreet.org.uk | 792m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.55264" lon="-3.28903">
+<ns0:name>Rannerdale Knotts</ns0:name>
+<ns0:desc>Rannerdale Knotts UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY167182 (click for full map)OS Maps: 1:50(89) 1:25(OL4S)Lat: 54.55264 ; Lon:-3.28903POI Name: 0355.wDownloaded from www.haroldstreet.org.uk | 355m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.55923" lon="-3.07872">
+<ns0:name>Raven Crag</ns0:name>
+<ns0:desc>Raven Crag UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY303187 (click for full map)OS Maps: 1:50(90) 1:25(OL4S,OL5S)Lat: 54.55923 ; Lon:-3.07872POI Name: 0461.wDownloaded from www.haroldstreet.org.uk | 461m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.52744" lon="-3.29855">
+<ns0:name>Red Pike (Buttermere)</ns0:name>
+<ns0:desc>Red Pike (Buttermere) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY160154 (click for full map)OS Maps: 1:50(89) 1:25(OL4S)Lat: 54.52744 ; Lon:-3.29855POI Name: 0755.HDownloaded from www.haroldstreet.org.uk | 755m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48392" lon="-3.28988">
+<ns0:name>Red Pike (Wasdale)</ns0:name>
+<ns0:desc>Red Pike (Wasdale) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY165106 (click for full map)OS Maps: 1:50(89) 1:25(OL4S,OL6N)Lat: 54.48392 ; Lon:-3.28988POI Name: 0826.HDownloaded from www.haroldstreet.org.uk | 826m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.47058" lon="-2.93257">
+<ns0:name>Red Screes</ns0:name>
+<ns0:desc>Red Screes UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY396087 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.47058 ; Lon:-2.93257POI Name: 0779.HDownloaded from www.haroldstreet.org.uk | 779m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.51494" lon="-2.87803">
+<ns0:name>Rest Dodd</ns0:name>
+<ns0:desc>Rest Dodd UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY432136 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.51494 ; Lon:-2.87803POI Name: 0696.HDownloaded from www.haroldstreet.org.uk | 696m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.54079" lon="-3.23508">
+<ns0:name>Robinson</ns0:name>
+<ns0:desc>Robinson UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY201168 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.54079 ; Lon:-3.23508POI Name: 0738.HDownloaded from www.haroldstreet.org.uk | 738m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.45794" lon="-3.1598">
+<ns0:name>Rossett Pike</ns0:name>
+<ns0:desc>Rossett Pike UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY249075 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.45794 ; Lon:-3.15980POI Name: 0651.HDownloaded from www.haroldstreet.org.uk | 651m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.5022" lon="-3.14685">
+<ns0:name>Rosthwaite Fell-Bessyboot</ns0:name>
+<ns0:desc>Rosthwaite Fell-Bessyboot UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY258124 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.50220 ; Lon:-3.14685POI Name: 0551.wDownloaded from www.haroldstreet.org.uk | 551m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.57133" lon="-3.24182">
+<ns0:name>Sail</ns0:name>
+<ns0:desc>Sail UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY198202 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.57133 ; Lon:-3.24182POI Name: 0773.HDownloaded from www.haroldstreet.org.uk | 773m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.65563" lon="-3.25016">
+<ns0:name>Sale Fell</ns0:name>
+<ns0:desc>Sale Fell UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY194296 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.65563 ; Lon:-3.25016POI Name: 0359.wDownloaded from www.haroldstreet.org.uk | 359m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.42812" lon="-2.87">
+<ns0:name>Sallows</ns0:name>
+<ns0:desc>Sallows UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY436039 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.42812 ; Lon:-2.87000POI Name: 0516.wDownloaded from www.haroldstreet.org.uk | 516m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.4475" lon="-3.22473">
+<ns0:name>Scafell</ns0:name>
+<ns0:desc>Scafell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY206064 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.44750 ; Lon:-3.22473POI Name: 0964.HDownloaded from www.haroldstreet.org.uk | 964m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.45426" lon="-3.21168">
+<ns0:name>Scafell Pike</ns0:name>
+<ns0:desc>Scafell Pike UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY215072 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.45426 ; Lon:-3.21168POI Name: 0978.HDownloaded from www.haroldstreet.org.uk | 978m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.57497" lon="-3.22595">
+<ns0:name>Scar Crags</ns0:name>
+<ns0:desc>Scar Crags UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY208206 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.57497 ; Lon:-3.22595POI Name: 0672.HDownloaded from www.haroldstreet.org.uk | 672m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.4909" lon="-3.29924">
+<ns0:name>Scoat Fell</ns0:name>
+<ns0:desc>Scoat Fell UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY159113 (click for full map)OS Maps: 1:50(89) 1:25(OL4S)Lat: 54.49090 ; Lon:-3.29924POI Name: 0841.HDownloaded from www.haroldstreet.org.uk | 841m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.49486" lon="-3.01403">
+<ns0:name>Seat Sandal</ns0:name>
+<ns0:desc>Seat Sandal UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY344115 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.49486 ; Lon:-3.01403POI Name: 0737.HDownloaded from www.haroldstreet.org.uk | 737m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.46406" lon="-3.32827">
+<ns0:name>Seatallan</ns0:name>
+<ns0:desc>Seatallan UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY140084 (click for full map)OS Maps: 1:50(89) 1:25(OL6N)Lat: 54.46406 ; Lon:-3.32827POI Name: 0693.HDownloaded from www.haroldstreet.org.uk | 693m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.481" lon="-3.19125">
+<ns0:name>Seathwaite Fell (Wainwright summit)</ns0:name>
+<ns0:desc>Seathwaite Fell (Wainwright summit) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY229101 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S,OL6N)Lat: 54.48100 ; Lon:-3.19125POI Name: 0601.wDownloaded from www.haroldstreet.org.uk | 601m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.49308" lon="-2.78793">
+<ns0:name>Selside Pike</ns0:name>
+<ns0:desc>Selside Pike UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY490111 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.49308 ; Lon:-2.78793POI Name: 0655.HDownloaded from www.haroldstreet.org.uk | 655m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.47036" lon="-3.10255">
+<ns0:name>Sergeant Man</ns0:name>
+<ns0:desc>Sergeant Man UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY286088 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.47036 ; Lon:-3.10255POI Name: 0736.WDownloaded from www.haroldstreet.org.uk | 736m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.49253" lon="-3.12246">
+<ns0:name>Sergeant's Crag</ns0:name>
+<ns0:desc>Sergeant's Crag UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY273113 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.49253 ; Lon:-3.12246POI Name: 0571.wDownloaded from www.haroldstreet.org.uk | 571m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.55494" lon="-2.977">
+<ns0:name>Sheffield Pike</ns0:name>
+<ns0:desc>Sheffield Pike UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY369181 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.55494 ; Lon:-2.97700POI Name: 0676.HDownloaded from www.haroldstreet.org.uk | 676m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.44858" lon="-2.81471">
+<ns0:name>Shipman Knotts</ns0:name>
+<ns0:desc>Shipman Knotts UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY472062 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.44858 ; Lon:-2.81471POI Name: 0587.wDownloaded from www.haroldstreet.org.uk | 587m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.45069" lon="-3.04289">
+<ns0:name>Silver How</ns0:name>
+<ns0:desc>Silver How UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY324066 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.45069 ; Lon:-3.04289POI Name: 0394.wDownloaded from www.haroldstreet.org.uk | 394m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.65139" lon="-3.14776">
+<ns0:name>Skiddaw</ns0:name>
+<ns0:desc>Skiddaw UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY260290 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.65139 ; Lon:-3.14776POI Name: 0930.HDownloaded from www.haroldstreet.org.uk | 930m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.63991" lon="-3.13763">
+<ns0:name>Skiddaw Little Man</ns0:name>
+<ns0:desc>Skiddaw Little Man UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY266277 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.63991 ; Lon:-3.13763POI Name: 0865.HDownloaded from www.haroldstreet.org.uk | 865m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.43439" lon="-3.21958">
+<ns0:name>Slight Side</ns0:name>
+<ns0:desc>Slight Side UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY209050 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.43439 ; Lon:-3.21958POI Name: 0762.WDownloaded from www.haroldstreet.org.uk | 762m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.42117" lon="-2.8836">
+<ns0:name>Sour Howes</ns0:name>
+<ns0:desc>Sour Howes UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY427032 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.42117 ; Lon:-2.88360POI Name: 0483.wDownloaded from www.haroldstreet.org.uk | 483m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.65324" lon="-3.00166">
+<ns0:name>Souther Fell</ns0:name>
+<ns0:desc>Souther Fell UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY354291 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.65324 ; Lon:-3.00166POI Name: 0522.wDownloaded from www.haroldstreet.org.uk | 522m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.51194" lon="-2.97584">
+<ns0:name>St Sunday Crag</ns0:name>
+<ns0:desc>St Sunday Crag UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY369133 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.51194 ; Lon:-2.97584POI Name: 0841.HDownloaded from www.haroldstreet.org.uk | 841m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.52973" lon="-3.32721">
+<ns0:name>Starling Dodd</ns0:name>
+<ns0:desc>Starling Dodd UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY142157 (click for full map)OS Maps: 1:50(89) 1:25(OL4S)Lat: 54.52973 ; Lon:-3.32721POI Name: 0633.HDownloaded from www.haroldstreet.org.uk | 633m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.49116" lon="-3.05218">
+<ns0:name>Steel Fell (Dead Pike-Steel Fell)</ns0:name>
+<ns0:desc>Steel Fell (Dead Pike-Steel Fell) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY319111 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.49116 ; Lon:-3.05218POI Name: 0553.wDownloaded from www.haroldstreet.org.uk | 553m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.55525" lon="-2.86681">
+<ns0:name>Steel Knotts (Pikeawassa-Steel Knotts)</ns0:name>
+<ns0:desc>Steel Knotts (Pikeawassa-Steel Knotts) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY440181 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.55525 ; Lon:-2.86681POI Name: 0432.wDownloaded from www.haroldstreet.org.uk | 432m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.49339" lon="-3.30217">
+<ns0:name>Steeple</ns0:name>
+<ns0:desc>Steeple UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY157116 (click for full map)OS Maps: 1:50(89) 1:25(OL4S)Lat: 54.49339 ; Lon:-3.30217POI Name: 0819.NDownloaded from www.haroldstreet.org.uk | 819m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.47428" lon="-3.00837">
+<ns0:name>Stone Arthur</ns0:name>
+<ns0:desc>Stone Arthur UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY347092 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.47428 ; Lon:-3.00837POI Name: 0504.wDownloaded from www.haroldstreet.org.uk | 504m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48206" lon="-2.90008">
+<ns0:name>Stony Cove Pike (Caudale Moor)</ns0:name>
+<ns0:desc>Stony Cove Pike (Caudale Moor) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY417100 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.48206 ; Lon:-2.90008POI Name: 0764.HDownloaded from www.haroldstreet.org.uk | 764m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.56113" lon="-3.01741">
+<ns0:name>Stybarrow Dodd</ns0:name>
+<ns0:desc>Stybarrow Dodd UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY343189 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.56113 ; Lon:-3.01741POI Name: 0844.HDownloaded from www.haroldstreet.org.uk | 844m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.39526" lon="-3.12152">
+<ns0:name>Swirl How</ns0:name>
+<ns0:desc>Swirl How UK Area: 34D - Southern CumbriaOS Grid Ref: NY272005 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.39526 ; Lon:-3.12152POI Name: 0802.HDownloaded from www.haroldstreet.org.uk | 802m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.4743" lon="-3.07601">
+<ns0:name>Tarn Crag (Easedale)</ns0:name>
+<ns0:desc>Tarn Crag (Easedale) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY303093 (click for full map)OS Maps: 1:50(90) 1:25(OL4S,OL5S,OL6N,OL7N)Lat: 54.47430 ; Lon:-3.07601POI Name: 0549.wDownloaded from www.haroldstreet.org.uk | 549m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.46358" lon="-2.79154">
+<ns0:name>Tarn Crag (Sleddale)</ns0:name>
+<ns0:desc>Tarn Crag (Sleddale) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY487078 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.46358 ; Lon:-2.79154POI Name: 0664.HDownloaded from www.haroldstreet.org.uk | 664m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.50632" lon="-2.87082">
+<ns0:name>The Knott (High Street)</ns0:name>
+<ns0:desc>The Knott (High Street) UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY437126 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.50632 ; Lon:-2.87082POI Name: 0739.WDownloaded from www.haroldstreet.org.uk | 739m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.52889" lon="-2.87568">
+<ns0:name>The Nab</ns0:name>
+<ns0:desc>The Nab UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY434151 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.52889 ; Lon:-2.87568POI Name: 0576.wDownloaded from www.haroldstreet.org.uk | 576m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.37066" lon="-3.12145">
+<ns0:name>The Old Man of Coniston (Coniston Old Man)</ns0:name>
+<ns0:desc>The Old Man of Coniston (Coniston Old Man) UK Area: 34D - Southern CumbriaOS Grid Ref: SD272978 (click for full map)OS Maps: 1:50(96,97) 1:25(OL6N)Lat: 54.37066 ; Lon:-3.12145POI Name: 0802.HDownloaded from www.haroldstreet.org.uk | 802m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.48261" lon="-2.87898">
+<ns0:name>Thornthwaite Crag</ns0:name>
+<ns0:desc>Thornthwaite Crag UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY431100 (click for full map)OS Maps: 1:50(90) 1:25(OL5S,OL7N)Lat: 54.48261 ; Lon:-2.87898POI Name: 0784.HDownloaded from www.haroldstreet.org.uk | 784m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.46219" lon="-3.11265">
+<ns0:name>Thunacar Knott</ns0:name>
+<ns0:desc>Thunacar Knott UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY279079 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.46219 ; Lon:-3.11265POI Name: 0723.NDownloaded from www.haroldstreet.org.uk | 723m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.44995" lon="-2.89231">
+<ns0:name>Troutbeck Tongue</ns0:name>
+<ns0:desc>Troutbeck Tongue UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY422064 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.44995 ; Lon:-2.89231POI Name: 0364.wDownloaded from www.haroldstreet.org.uk | 364m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.64826" lon="-3.17249">
+<ns0:name>Ullock Pike</ns0:name>
+<ns0:desc>Ullock Pike UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY244287 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.64826 ; Lon:-3.17249POI Name: 0690.WDownloaded from www.haroldstreet.org.uk | 690m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.49991" lon="-3.09553">
+<ns0:name>Ullscarf</ns0:name>
+<ns0:desc>Ullscarf UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY291121 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.49991 ; Lon:-3.09553POI Name: 0723.HDownloaded from www.haroldstreet.org.uk | 723m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.58161" lon="-3.12038">
+<ns0:name>Walla Crag</ns0:name>
+<ns0:desc>Walla Crag UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY276212 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.58161 ; Lon:-3.12038POI Name: 0379.wDownloaded from www.haroldstreet.org.uk | 379m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.56627" lon="-3.25709">
+<ns0:name>Wandope</ns0:name>
+<ns0:desc>Wandope UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY188197 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.56627 ; Lon:-3.25709POI Name: 0774.HDownloaded from www.haroldstreet.org.uk | 774m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.56692" lon="-3.029">
+<ns0:name>Watson's Dodd</ns0:name>
+<ns0:desc>Watson's Dodd UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY335195 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.56692 ; Lon:-3.02900POI Name: 0789.wDownloaded from www.haroldstreet.org.uk | 789m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.54324" lon="-2.84245">
+<ns0:name>Wether Hill</ns0:name>
+<ns0:desc>Wether Hill UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY455167 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.54324 ; Lon:-2.84245POI Name: 0673.WDownloaded from www.haroldstreet.org.uk | 673m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.40049" lon="-3.09797">
+<ns0:name>Wetherlam</ns0:name>
+<ns0:desc>Wetherlam UK Area: 34D - Southern CumbriaOS Grid Ref: NY288011 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.40049 ; Lon:-3.09797POI Name: 0763.HDownloaded from www.haroldstreet.org.uk | 763m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.42016" lon="-3.30992">
+<ns0:name>Whin Rigg (Wasdale)</ns0:name>
+<ns0:desc>Whin Rigg (Wasdale) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY151035 (click for full map)OS Maps: 1:50(89) 1:25(OL6N)Lat: 54.42016 ; Lon:-3.30992POI Name: 0537.wDownloaded from www.haroldstreet.org.uk | 537m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.61486" lon="-3.25403">
+<ns0:name>Whinlatter (Brown How-Whinlatter)</ns0:name>
+<ns0:desc>Whinlatter (Brown How-Whinlatter) UK Area: 34A - Lake District - Northern FellsOS Grid Ref: NY191251 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.61486 ; Lon:-3.25403POI Name: 0517.wDownloaded from www.haroldstreet.org.uk | 517m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.5409" lon="-3.02506">
+<ns0:name>White Side</ns0:name>
+<ns0:desc>White Side UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY337166 (click for full map)OS Maps: 1:50(90) 1:25(OL5S)Lat: 54.54090 ; Lon:-3.02506POI Name: 0863.HDownloaded from www.haroldstreet.org.uk | 863m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.55937" lon="-3.26931">
+<ns0:name>Whiteless Pike</ns0:name>
+<ns0:desc>Whiteless Pike UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY180189 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.55937 ; Lon:-3.26931POI Name: 0660.HDownloaded from www.haroldstreet.org.uk | 660m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.58591" lon="-3.28516">
+<ns0:name>Whiteside (Whiteside West Top)</ns0:name>
+<ns0:desc>Whiteside (Whiteside West Top) UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY170219 (click for full map)OS Maps: 1:50(89,90) 1:25(OL4S)Lat: 54.58591 ; Lon:-3.28516POI Name: 0707.nDownloaded from www.haroldstreet.org.uk | 707m |  |  | ,</ns0:desc>
+<ns0:extensions>
+<xsi:gpx>
+<ns0:color>#FF3C8C3C</ns0:color>
+</xsi:gpx>
+</ns0:extensions>
+</ns0:wpt>
+<ns0:wpt lat="54.46489" lon="-3.27686">
+<ns0:name>Yewbarrow</ns0:name>
+<ns0:desc>Yewbarrow UK Area: 34B - Lake District - Central &amp;amp; Western FellsOS Grid Ref: NY173084 (click for full map)OS Maps: 1:50(89,90) 1:25(OL6N)Lat: 54.46489 ; Lon:-3.27686POI Name: 0629.HDownloaded from www.haroldstreet.org.uk | 629m |  |  | ,</ns0:desc>
+</ns0:wpt>
+<ns0:wpt lat="54.45293" lon="-2.86873">
+<ns0:name>Yoke</ns0:name>
+<ns0:desc>Yoke UK Area: 34C - Lake District - Eastern FellsOS Grid Ref: NY437067 (click for full map)OS Maps: 1:50(90) 1:25(OL7N)Lat: 54.45293 ; Lon:-2.86873POI Name: 0707.HDownloaded from www.haroldstreet.org.uk | 707m |  |  | ,</ns0:desc>
+</ns0:wpt>
+</ns0:gpx>
