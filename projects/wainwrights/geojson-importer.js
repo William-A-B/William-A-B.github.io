@@ -23,6 +23,25 @@ const terrain = L.tileLayer("https://mt0.google.com/vt/lyrs=p&hl=en&x={x}&y={y}&
     maxZoom: 22
 });
 
+const osOutdoor = L.tileLayer(
+  "https://api.os.uk/maps/raster/v1/zxy/Outdoor_3857/{z}/{x}/{y}.png?key=fHAifbIOxV6JwdcOuc2YAAwsL7fWQCH5",
+  {
+    attribution: '© Ordnance Survey',
+    maxZoom: 16,
+    tileSize: 256
+  }
+);
+
+const osRoad = L.tileLayer(
+  "https://api.os.uk/maps/raster/v1/zxy/Road_3857/{z}/{x}/{y}.png?key=fHAifbIOxV6JwdcOuc2YAAwsL7fWQCH5",
+  {
+    attribution: '© Ordnance Survey',
+    maxZoom: 16,
+    tileSize: 256
+  }
+);
+
+
 // Initialize map
 const map = L.map('map', {
     center: [54.496555, -3.062749],
@@ -35,8 +54,10 @@ const baseMaps = {
     "OpenStreetMap": osm,
     "OpenTopoMap": openTopo,
     "Google Streets": googleStreets,
-    "Satellite": satellite,
-    "Terrain": terrain
+    "Google Satellite": satellite,
+    "Google Terrain": terrain,
+    "OS Maps Outdoor": osOutdoor,
+    "OS Maps Road": osRoad
 };
 
 L.control.layers(baseMaps).addTo(map);
