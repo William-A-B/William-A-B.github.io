@@ -1,6 +1,4 @@
-// =========================
-// Popup styling
-// =========================
+// Styling for marker/icon popup content
 const popupCSS = `
 .leaflet-popup-content {
   margin: 10px 14px;
@@ -57,7 +55,7 @@ const popupStyle = document.createElement('style');
 popupStyle.appendChild(document.createTextNode(popupCSS));
 document.head.appendChild(popupStyle);
 
-// Add styles for the control
+// Styling for stats control button/box
 const statsCSS = `
 .stats-control {
   background-color: var(--bg-col, #fff);
@@ -67,32 +65,70 @@ const statsCSS = `
   box-shadow: 0 6px 16px rgb(0 0 0 / 0.1);
   border-radius: 5px;
   line-height: 1.4;
+
 }
 `;
+
 const style = document.createElement('style');
 style.appendChild(document.createTextNode(statsCSS));
 document.head.appendChild(style);
 
+// Styling for fullscreen map control
+const fullscreenCSS = `
+.map-fullscreen {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  z-index: 9999;
+  background: #fff;
+}
+
+.leaflet-control-fullscreen {
+  background-color: #fff;
+  width: 43px;
+  height: 43px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.leaflet-control-fullscreen:hover {
+  background-color: #f0f0f0;
+}
+`;
+
+const fullscreenStyle = document.createElement('style');
+fullscreenStyle.appendChild(document.createTextNode(fullscreenCSS));
+document.head.appendChild(fullscreenStyle);
+
 // Base layers
+// OpenStreetMap
 const osm = L.tileLayer("https://a.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: '&copy; OpenStreetMap contributors'
 });
 
+// OpenTopoMap
 const openTopo = L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", {
     attribution: 'Map data: &copy; OpenStreetMap contributors, SRTM | Map style: &copy; OpenTopoMap (CC-BY-SA)',
     maxZoom: 17
 });
 
+// Google Maps
 const googleStreets = L.tileLayer("https://mt0.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&s=Ga", {
     attribution: '&copy; Google',
     maxZoom: 22
 });
 
+// Google Satellite
 const satellite = L.tileLayer("https://mt0.google.com/vt/lyrs=s&hl=en&x={x}&y={y}&z={z}&s=Ga", {
     attribution: '&copy; Google Satellite',
     maxZoom: 22
 });
 
+// Google Terrain
 const terrain = L.tileLayer("https://mt0.google.com/vt/lyrs=p&hl=en&x={x}&y={y}&z={z}&s=Ga", {
     attribution: '&copy; Google Terrain',
     maxZoom: 22
@@ -106,7 +142,7 @@ const map = L.map('map', {
     layers: [openTopo]
 });
 
-// Layer control
+// Layer control, associate map names to layers
 const baseMaps = {
     "OpenStreetMap": osm,
     "OpenTopoMap": openTopo,
@@ -115,19 +151,19 @@ const baseMaps = {
     "Google Terrain": terrain
 };
 
-L.control.layers(baseMaps).addTo(map);
-
+// Large default icon (not used, but kept for reference)
 const largeIconSize = [25, 41];
 const largeIconAnchor = [12, 41];
 const largePopupAnchor = [1, -34];
 const largeShadowSize = [41, 41];
 
-
+// Small icon for Wainwrights
 const smallMarkerSize = [15, 25];   // width, height
 const smallAnchor = [7.5, 25];      // half width, full height
 const smallPopupAnchor = [0, -22];
 const smallShadowSize = [25, 25];
 
+// Red icon for not completed
 const redIcon = new L.Icon({
   iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
   shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.3/images/marker-shadow.png',
@@ -137,6 +173,7 @@ const redIcon = new L.Icon({
   shadowSize: smallShadowSize
 });
 
+// Green icon for completed Wainwrights
 const greenIcon = new L.Icon({
   iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
   shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.3/images/marker-shadow.png',
@@ -184,10 +221,10 @@ const StatsControl = L.Control.extend({
       <b>Avg Height Completed:</b> ${avgHeight.toFixed(0)} m
     `;
   },
-  show: function() {
+  show: function () {
     this._div.style.display = 'block';
   },
-  hide: function() {
+  hide: function () {
     this._div.style.display = 'none';
   },
   toggle: function() {
@@ -199,7 +236,7 @@ const StatsControl = L.Control.extend({
   }
 });
 
-
+// Toggle button for stats control
 const ToggleStatsControl = L.Control.extend({
   onAdd: function(map) {
     const container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom');
@@ -227,11 +264,62 @@ const ToggleStatsControl = L.Control.extend({
   position: 'topright'
 });
 
-// Create the control and add to map
+// =========================
+// Fullscreen Control
+// =========================
+const FullscreenControl = L.Control.extend({
+  onAdd: function () {
+    const container = L.DomUtil.create(
+      'div',
+      'leaflet-bar leaflet-control leaflet-control-fullscreen'
+    );
+
+    container.title = 'Toggle Fullscreen';
+    container.innerHTML = '⛶'; // fullscreen icon
+
+    L.DomEvent.disableClickPropagation(container);
+
+    container.onclick = () => toggleFullscreen();
+
+    return container;
+  }
+});
+
+const mapContainer = document.getElementById('map');
+let isFullscreen = false;
+
+function toggleFullscreen() {
+  isFullscreen = !isFullscreen;
+
+  if (isFullscreen) {
+    mapContainer.classList.add('map-fullscreen');
+  } else {
+    mapContainer.classList.remove('map-fullscreen');
+  }
+
+  // Important: tell Leaflet to recalc size
+  setTimeout(() => {
+    map.invalidateSize();
+  }, 200);
+}
+
+// =========================
+// Initialize and add controls to map
+// =========================
+
+// Create the fullscreen button and add to map
+const fullscreenControl = new FullscreenControl({ position: 'topright' });
+fullscreenControl.addTo(map);
+
+// Add layer options to map
+L.control.layers(baseMaps).addTo(map);
+
+// Create the stats window and add to map
 const statsControl = new StatsControl({ position: 'topright' });
 statsControl.addTo(map);
 statsControl.hide(); // initially hidden
 
+// Create the toggle button and add to map
 const toggleStats = new ToggleStatsControl({ position: 'topright' });
 toggleStats.addTo(map);
 
@@ -242,11 +330,13 @@ if (container) {
   container.parentNode.insertBefore(toggleEl, container.nextSibling);
 }
 
+// =========================
+// Stats variables
+// =========================
 
 const completedHeights = [];
 let completedCount = 0;
 const TOTAL_WAINWRIGHTS = 214;
-
 
 // =========================
 // Load and parse GPX
