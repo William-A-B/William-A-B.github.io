@@ -1,0 +1,50 @@
+[
+  {
+    "id": "suilven-001",
+    "title": "Suilven at Sunset",
+    "type": "landscape",
+    "coords": [58.025, -5.128],
+    "thumbnail": "/assets/img/Suilven-banner-small.png",
+    "fullImageUrl": "/photography/gallery/scotland",
+    "metadata": {
+      "camera": "Sony A7 III",
+      "lens": "24–70mm",
+      "aperture": "f/8",
+      "shutter": "1/125s",
+      "iso": 100,
+      "date": "2024-05-18"
+    }
+  },
+  {
+    "id": "hydrangea",
+    "title": "Hydrangea Close-up",
+    "type": "nature",
+    "coords": [57.025, -4.528],
+    "thumbnail": "/assets/img/flower.jpg",
+    "fullImageUrl": "/photography/gallery/nature",
+    "metadata": {
+      "camera": "Sony A7 III",
+      "lens": "24–70mm",
+      "aperture": "f/8",
+      "shutter": "1/125s",
+      "iso": 100,
+      "date": "2024-05-18"
+    }
+  },
+  {
+    "id": "hydrangea",
+    "title": "Hydrangea Close-up",
+    "type": "wildlife",
+    "coords": [57.025, -3.528],
+    "thumbnail": "/assets/img/flower.jpg",
+    "fullImageUrl": "/photography/gallery/nature",
+    "metadata": {
+      "camera": "Sony A7 III",
+      "lens": "24–70mm",
+      "aperture": "f/8",
+      "shutter": "1/125s",
+      "iso": 100,
+      "date": "2024-05-18"
+    }
+  }
+]

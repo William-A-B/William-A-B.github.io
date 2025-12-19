@@ -11,41 +11,42 @@
     --accent: #536b78;
 }
 
-.table-container {
-    position: absolute; /* Change to fixed if you want it to stay in place while scrolling */
-    width: 30%;
-    left: 35%;
+.photography-home {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
 }
 
-table {
-    width: 100%;
-    border-collapse: collapse;
+.page-title {
+    margin: 30px 0;
+    text-align: left;
 }
 
-td {
-    border: 1px solid #000;
-    text-align: center;
-    padding: 10px;
+.photo-nav {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 4rem;
 }
 
-td a {
-  display: block;       /* Make the link a block element */
-  width: 100%;          /* Fill the entire width of the td */
-  height: 100%;         /* Fill the entire height of the td */
-  color: white;       /* Keep the text color */
-  text-decoration: none; /* Optional: remove underline */
-  padding: 10px 0;      /* Match the td padding for vertical click area */
-  box-sizing: border-box; /* Ensure padding doesn’t break sizing */
-  font-size: 1.6em;
-}
+.photo-nav-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
-td a:hover {
-  background-color: var(--secondary); /* Optional: add hover color */
-  color: white;                        /* Optional: change text color on hover */
-}
+    padding: 1.5rem;
+    font-size: 1.6em;
 
-tr {
     background-color: var(--primary);
+    color: white;
+    text-decoration: none;
+
+    border: 1px solid #000;
+    transition: background-color 0.2s ease;
+}
+
+.photo-nav-item:hover {
+    background-color: var(--secondary);
 }
 
 figcaption {

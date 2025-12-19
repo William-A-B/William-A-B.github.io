@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="/style.css" />
+        <link rel="stylesheet" href="/photography/photography-styling.css" />
+        <link rel="stylesheet" href="/styling/section_box.css" />
+        <!-- Leaflet core -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+        <!-- Leaflet Fullscreen plugin -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.fullscreen@1.6.0/Control.FullScreen.css"/>
+        <!-- Marker clustering -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"/>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"/>
+        <link rel="stylesheet" href="/photography/photo-locations/photo-locations-styling.css" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+        <link rel="icon" href="/assets/icons/favicon.jpg" type="image/x-icon" />
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Diphylleia&family=Dosis:wght@200..800&display=swap" rel="stylesheet" />
+        <title>William Betteridge</title>
+    </head>
+
+    <body>
+        <header>
+            <a class="header-title" href="#">William Betteridge</a>
+            <nav class="header-title">
+                <a href="/"><li>Home</li></a>
+                <a href="/projects"><li>Projects</li></a>
+                <a href="/photography"><li>Photography</li></a>
+            </nav>
+        </header>
+        <div class="no-image" id="home"></div>
+
+        <main style="padding: 1.5rem">
+            <section class="section-box">
+                <h3>Photography Location Map</h3>
+                <p>A collection of all the locations for each photograph I've taken.</p>
+                <p>This page is a work in progress</p>
+                <!-- <div id="photo-filters">
+                    <div class="filter-title">Filters</div>
+
+                    <label class="filter-item landscape">
+                        <input type="checkbox" value="landscape" checked>
+                        <span class="filter-label">Landscape</span>
+                    </label>
+
+                    <label class="filter-item nature">
+                        <input type="checkbox" value="nature" checked>
+                        <span class="filter-label">Nature</span>
+                    </label>
+
+                    <label class="filter-item wildlife">
+                        <input type="checkbox" value="wildlife" checked>
+                        <span class="filter-label">Wildlife</span>
+                    </label>
+                </div>
+                <br> -->
+                <!-- Map container -->
+                <div id="photo-locations-map"></div>
+            </section>
+            
+        </main>
+        <script src="/script.js"></script>
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script src="https://unpkg.com/leaflet.fullscreen@1.6.0/Control.FullScreen.js"></script>
+        <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+        <script type="module" src="/photography/photo-locations/js/photo-locations-map.js"></script>
+    </body>
+</html>
