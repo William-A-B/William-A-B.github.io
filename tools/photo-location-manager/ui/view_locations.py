@@ -4,6 +4,7 @@ from ui.edit_location import EditLocationDialog
 
 
 
+
 class ViewLocationsPage(tk.Frame):
     BG_COLOUR = "#f4f6f8"
     PANEL_BG = "#ffffff"

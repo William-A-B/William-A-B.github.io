@@ -196,6 +196,11 @@ function setupLegendFiltering() {
 // Load photo location data
 // ------------------------------
 
+function metaItem(label, value) {
+    if (!value) return "";
+    return `<li><strong>${label}:</strong> ${value}</li>`;
+}
+
 async function loadPhotoLocations() {
     const response = await fetch(
         "/photography/photo-locations/data/photo-locations.json"
@@ -226,10 +231,21 @@ loadPhotoLocations()
                     <img src="${photo.thumbnail}" alt="${photo.title}">
 
                     <ul class="photo-meta">
-                        <li><strong>Camera:</strong> ${photo.metadata.camera}</li>
-                        <li><strong>Lens:</strong> ${photo.metadata.lens}</li>
-                        <li><strong>Exposure:</strong> ${photo.metadata.shutter} · ${photo.metadata.aperture} · ISO ${photo.metadata.iso}</li>
-                        <li><strong>Date:</strong> ${photo.metadata.date}</li>
+                        ${metaItem("Camera", photo.metadata.camera)}
+                        ${metaItem("Lens", photo.metadata.lens)}
+                        ${
+                            photo.metadata.shutter ||
+                            photo.metadata.aperture ||
+                            photo.metadata.iso
+                                ? `<li>
+                                    <strong>Exposure:</strong>
+                                    ${photo.metadata.shutter ?? ""}
+                                    ${photo.metadata.aperture ? ` · ${photo.metadata.aperture}` : ""}
+                                    ${photo.metadata.iso ? ` · ISO ${photo.metadata.iso}` : ""}
+                                </li>`
+                                : ""
+                        }
+                        ${metaItem("Date", photo.metadata.date)}
                     </ul>
 
                     <a href="${photo.fullImageUrl}" target="_blank" class="photo-link">
@@ -267,3 +283,12 @@ loadPhotoLocations()
  *
  * Keeping this empty for now keeps the map clean.
  */
+
+/*
+<ul class="photo-meta">
+    <li><strong>Camera:</strong> ${photo.metadata.camera}</li>
+    <li><strong>Lens:</strong> ${photo.metadata.lens}</li>
+    <li><strong>Exposure:</strong> ${photo.metadata.shutter} · ${photo.metadata.aperture} · ISO ${photo.metadata.iso}</li>
+    <li><strong>Date:</strong> ${photo.metadata.date}</li>
+</ul>
+*/
