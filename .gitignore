@@ -1,1 +1,3 @@
 /projects/wainwrights/test.html
+*.pyc
+__pycache__/
