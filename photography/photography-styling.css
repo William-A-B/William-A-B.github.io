@@ -12,7 +12,7 @@
 }
 
 .photography-home {
-    max-width: 900px;
+    max-width: 1280px;
     margin: 0 auto;
     padding: 2rem 1rem;
 }
@@ -34,7 +34,7 @@
     align-items: center;
     justify-content: center;
 
-    padding: 1.5rem;
+    padding: 1rem;
     font-size: 1.6em;
 
     background-color: var(--primary);
@@ -55,7 +55,7 @@ figcaption {
     font-style: italic;
     padding: 2px;
     text-align: center;
-  }
+}
 
 .gallery {
     display: flex;
@@ -119,15 +119,17 @@ figcaption {
 }
 
 .photo-column img:hover {
-    -webkit-transform:scale(1.8);
-    transform:scale(1.8);
+    -webkit-transform: scale(1.8);
+    transform: scale(1.8);
 }
 
-.photo-column:nth-child(1) img:hover, .photo-column:nth-child(1) img:hover ~ img {
+.photo-column:nth-child(1) img:hover,
+.photo-column:nth-child(1) img:hover ~ img {
     transform-origin: left center;
 }
 
-.photo-column:nth-child(3) img:hover, .photo-column:nth-child(3) img:hover ~ img {
+.photo-column:nth-child(3) img:hover,
+.photo-column:nth-child(3) img:hover ~ img {
     transform-origin: right center;
 }
 
@@ -135,16 +137,43 @@ figcaption {
     text-align: center;
     font-size: 1.2em;
     margin-top: 12px;
-
 }
 
+.instagram-grid {
+    max-width: 1080px;
+    margin: 40px auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
+
+/* Let Instagram control sizing */
+.instagram-grid .instagram-media {
+    width: 100% !important;
+    min-width: unset !important;
+    max-width: unset !important;
+    margin: 0 !important;
+}
+
+/* Responsive fallback */
+@media (max-width: 900px) {
+    .instagram-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .instagram-grid {
+        grid-template-columns: 1fr;
+    }
+}
 
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 1000px) {
     .photo-column {
-      -ms-flex: 48%;
-      flex: 48%;
-      max-width: 50%;
+        -ms-flex: 48%;
+        flex: 48%;
+        max-width: 50%;
     }
 
     .gallery-item {
@@ -152,15 +181,17 @@ figcaption {
         max-width: 45%;
     }
 
-    .photo-column:nth-child(2n+1) img:hover, .photo-column:nth-child(2n+1) img:hover ~ img {
+    .photo-column:nth-child(2n + 1) img:hover,
+    .photo-column:nth-child(2n + 1) img:hover ~ img {
         transform-origin: left center;
     }
 
-    .photo-column:nth-child(2n+2) img:hover, .photo-column:nth-child(2n+2) img:hover ~ img {
+    .photo-column:nth-child(2n + 2) img:hover,
+    .photo-column:nth-child(2n + 2) img:hover ~ img {
         transform-origin: right center;
     }
 }
-  
+
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 768px) {
     .photo-column {
