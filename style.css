@@ -109,11 +109,18 @@ body {
     background-position: top;
 }
 
+#home.photography {
+    background: url("https://live.staticflickr.com/65535/54545161723_b359271779_b.jpg");
+    background-size: cover;
+    background-position: top;
+}
+
 #home.no-image {
     background: none;
     height: 7vh;
     background-color: var(--primary);
 }
+
 
 /* .m_aboutSection {
     max-width: 1440px;
