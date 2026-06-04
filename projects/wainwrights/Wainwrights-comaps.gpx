@@ -956,6 +956,11 @@
   <wpt lat="54.49481" lon="-3.40397">
     <name>Lank Rigg</name>
     <desc><![CDATA[<b>HILL: <u><a href='https://www.haroldstreet.org.uk/waypoints/download/?hillnumber=2471&amp;/Lank+Rigg'>Lank Rigg</a></u></b> (541m)<br /><b>UK Area:</b> 34B - Lake District - Central &amp; Western Fells<br /><b>OS Grid Ref:</b> <a href='https://www.haroldstreet.org.uk/map-detail.php?g=NY0916311960' target='_n' title='Open OS map'>NY091119 (click for full map)</a><br /><b>OS Maps:</b> 1:50(89) 1:25(OL4S,303)<br /><b>Lat:</b> 54.49481 ; <b>Lon:</b>-3.40397<br /><b>POI Name:</b> 0541.w<br />Downloaded from <a href='https://www.haroldstreet.org.uk/'>www.haroldstreet.org.uk</a>]]></desc>
+    <extensions>
+      <xsi:gpx>
+        <color>#FF3C8C3C</color>
+      </xsi:gpx>
+    </extensions>
   </wpt>
   <wpt lat="54.61244" lon="-3.11785">
     <name>Latrigg</name>
