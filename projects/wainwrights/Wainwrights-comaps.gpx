@@ -20,6 +20,11 @@
   <wpt lat="54.52531" lon="-2.908">
     <name>Angletarn Pikes (Angletarn Pikes North Top)</name>
     <desc><![CDATA[<b>HILL: <u><a href='https://www.haroldstreet.org.uk/waypoints/download/?hillnumber=2579&amp;/Angletarn+Pikes+%28Angletarn+Pikes+North+Top%29'>Angletarn Pikes (Angletarn Pikes North Top)</a></u></b> (566m)<br /><b>UK Area:</b> 34C - Lake District - Eastern Fells<br /><b>OS Grid Ref:</b> <a href='https://www.haroldstreet.org.uk/map-detail.php?g=NY4133014826' target='_n' title='Open OS map'>NY413148 (click for full map)</a><br /><b>OS Maps:</b> 1:50(90) 1:25(OL5S)<br /><b>Lat:</b> 54.52531 ; <b>Lon:</b>-2.90800<br /><b>POI Name:</b> 0566.w<br />Downloaded from <a href='https://www.haroldstreet.org.uk/'>www.haroldstreet.org.uk</a>]]></desc>
+    <extensions>
+      <xsi:gpx>
+        <color>#FF3C8C3C</color>
+      </xsi:gpx>
+    </extensions>
   </wpt>
   <wpt lat="54.56694" lon="-3.22812">
     <name>Ard Crags</name>
@@ -42,6 +47,11 @@
   <wpt lat="54.52636" lon="-2.93852">
     <name>Arnison Crag</name>
     <desc><![CDATA[<b>HILL: <u><a href='https://www.haroldstreet.org.uk/waypoints/download/?hillnumber=2614&amp;/Arnison+Crag'>Arnison Crag</a></u></b> (433m)<br /><b>UK Area:</b> 34C - Lake District - Eastern Fells<br /><b>OS Grid Ref:</b> <a href='https://www.haroldstreet.org.uk/map-detail.php?g=NY3935614969' target='_n' title='Open OS map'>NY393149 (click for full map)</a><br /><b>OS Maps:</b> 1:50(90) 1:25(OL5S)<br /><b>Lat:</b> 54.52636 ; <b>Lon:</b>-2.93852<br /><b>POI Name:</b> 0433.w<br />Downloaded from <a href='https://www.haroldstreet.org.uk/'>www.haroldstreet.org.uk</a>]]></desc>
+    <extensions>
+      <xsi:gpx>
+        <color>#FF3C8C3C</color>
+      </xsi:gpx>
+    </extensions>
   </wpt>
   <wpt lat="54.57843" lon="-2.8358">
     <name>Arthur's Pike</name>
@@ -104,6 +114,11 @@
   <wpt lat="54.54649" lon="-2.8844">
     <name>Beda Fell (Beda Head)</name>
     <desc><![CDATA[<b>HILL: <u><a href='https://www.haroldstreet.org.uk/waypoints/download/?hillnumber=2595&amp;/Beda+Fell+%28Beda+Head%29'>Beda Fell (Beda Head)</a></u></b> (509m)<br /><b>UK Area:</b> 34C - Lake District - Eastern Fells<br /><b>OS Grid Ref:</b> <a href='https://www.haroldstreet.org.uk/map-detail.php?g=NY4288717163' target='_n' title='Open OS map'>NY428171 (click for full map)</a><br /><b>OS Maps:</b> 1:50(90) 1:25(OL5S)<br /><b>Lat:</b> 54.54649 ; <b>Lon:</b>-2.88440<br /><b>POI Name:</b> 0509.w<br />Downloaded from <a href='https://www.haroldstreet.org.uk/'>www.haroldstreet.org.uk</a>]]></desc>
+    <extensions>
+      <xsi:gpx>
+        <color>#FF3C8C3C</color>
+      </xsi:gpx>
+    </extensions>
   </wpt>
   <wpt lat="54.7088" lon="-3.20417">
     <name>Binsey</name>
@@ -238,6 +253,11 @@
   <wpt lat="54.51489" lon="-2.90259">
     <name>Brock Crags (Wainwright)</name>
     <desc><![CDATA[<b>HILL: <u><a href='https://www.haroldstreet.org.uk/waypoints/download/?hillnumber=2582&amp;/Brock+Crags+%28Wainwright%29'>Brock Crags (Wainwright)</a></u></b> (561m)<br /><b>UK Area:</b> 34C - Lake District - Eastern Fells<br /><b>OS Grid Ref:</b> <a href='https://www.haroldstreet.org.uk/map-detail.php?g=NY4166513662' target='_n' title='Open OS map'>NY416136 (click for full map)</a><br /><b>OS Maps:</b> 1:50(90) 1:25(OL5S)<br /><b>Lat:</b> 54.51489 ; <b>Lon:</b>-2.90259<br /><b>POI Name:</b> 0561.w<br />Downloaded from <a href='https://www.haroldstreet.org.uk/'>www.haroldstreet.org.uk</a>]]></desc>
+    <extensions>
+      <xsi:gpx>
+        <color>#FF3C8C3C</color>
+      </xsi:gpx>
+    </extensions>
   </wpt>
   <wpt lat="54.63217" lon="-3.2479">
     <name>Broom Fell</name>
@@ -983,6 +1003,11 @@
   <wpt lat="54.46279" lon="-3.22132">
     <name>Lingmell</name>
     <desc><![CDATA[<b>HILL: <u><a href='https://www.haroldstreet.org.uk/waypoints/download/?hillnumber=2382&amp;/Lingmell'>Lingmell</a></u></b> (807m)<br /><b>UK Area:</b> 34B - Lake District - Central &amp; Western Fells<br /><b>OS Grid Ref:</b> <a href='https://www.haroldstreet.org.uk/map-detail.php?g=NY2093208177' target='_n' title='Open OS map'>NY209081 (click for full map)</a><br /><b>OS Maps:</b> 1:50(89,90) 1:25(OL6N)<br /><b>Lat:</b> 54.46279 ; <b>Lon:</b>-3.22132<br /><b>POI Name:</b> 0807.H<br />Downloaded from <a href='https://www.haroldstreet.org.uk/'>www.haroldstreet.org.uk</a>]]></desc>
+    <extensions>
+      <xsi:gpx>
+        <color>#FF3C8C3C</color>
+      </xsi:gpx>
+    </extensions>
   </wpt>
   <wpt lat="54.43207" lon="-3.07641">
     <name>Lingmoor Fell (Brown How)</name>
@@ -1283,6 +1308,11 @@
   <wpt lat="54.51494" lon="-2.87803">
     <name>Rest Dodd</name>
     <desc><![CDATA[<b>HILL: <u><a href='https://www.haroldstreet.org.uk/waypoints/download/?hillnumber=2553&amp;/Rest+Dodd'>Rest Dodd</a></u></b> (696m)<br /><b>UK Area:</b> 34C - Lake District - Eastern Fells<br /><b>OS Grid Ref:</b> <a href='https://www.haroldstreet.org.uk/map-detail.php?g=NY4325513647' target='_n' title='Open OS map'>NY432136 (click for full map)</a><br /><b>OS Maps:</b> 1:50(90) 1:25(OL5S)<br /><b>Lat:</b> 54.51494 ; <b>Lon:</b>-2.87803<br /><b>POI Name:</b> 0696.H<br />Downloaded from <a href='https://www.haroldstreet.org.uk/'>www.haroldstreet.org.uk</a>]]></desc>
+    <extensions>
+      <xsi:gpx>
+        <color>#FF3C8C3C</color>
+      </xsi:gpx>
+    </extensions>
   </wpt>
   <wpt lat="54.54079" lon="-3.23508">
     <name>Robinson</name>
@@ -1341,6 +1371,11 @@
   <wpt lat="54.4475" lon="-3.22473">
     <name>Scafell</name>
     <desc><![CDATA[<b>HILL: <u><a href='https://www.haroldstreet.org.uk/waypoints/download/?hillnumber=2360&amp;/Scafell'>Scafell</a></u></b> (964m)<br /><b>UK Area:</b> 34B - Lake District - Central &amp; Western Fells<br /><b>OS Grid Ref:</b> <a href='https://www.haroldstreet.org.uk/map-detail.php?g=NY2068106479' target='_n' title='Open OS map'>NY206064 (click for full map)</a><br /><b>OS Maps:</b> 1:50(89,90) 1:25(OL6N)<br /><b>Lat:</b> 54.44750 ; <b>Lon:</b>-3.22473<br /><b>POI Name:</b> 0964.H<br />Downloaded from <a href='https://www.haroldstreet.org.uk/'>www.haroldstreet.org.uk</a>]]></desc>
+    <extensions>
+      <xsi:gpx>
+        <color>#FF3C8C3C</color>
+      </xsi:gpx>
+    </extensions>
   </wpt>
   <wpt lat="54.45426" lon="-3.21168">
     <name>Scafell Pike</name>
@@ -1556,6 +1591,11 @@
   <wpt lat="54.52889" lon="-2.87568">
     <name>The Nab</name>
     <desc><![CDATA[<b>HILL: <u><a href='https://www.haroldstreet.org.uk/waypoints/download/?hillnumber=2577&amp;/The+Nab'>The Nab</a></u></b> (576m)<br /><b>UK Area:</b> 34C - Lake District - Eastern Fells<br /><b>OS Grid Ref:</b> <a href='https://www.haroldstreet.org.uk/map-detail.php?g=NY4342715198' target='_n' title='Open OS map'>NY434151 (click for full map)</a><br /><b>OS Maps:</b> 1:50(90) 1:25(OL5S)<br /><b>Lat:</b> 54.52889 ; <b>Lon:</b>-2.87568<br /><b>POI Name:</b> 0576.w<br />Downloaded from <a href='https://www.haroldstreet.org.uk/'>www.haroldstreet.org.uk</a>]]></desc>
+    <extensions>
+      <xsi:gpx>
+        <color>#FF3C8C3C</color>
+      </xsi:gpx>
+    </extensions>
   </wpt>
   <wpt lat="54.37066" lon="-3.12145">
     <name>The Old Man of Coniston (Coniston Old Man)</name>
